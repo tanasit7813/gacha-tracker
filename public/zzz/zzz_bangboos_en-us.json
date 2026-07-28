@@ -1,0 +1,296 @@
+{
+  "53001": {
+    "item_id": 53001,
+    "name": "Penguinboo",
+    "slug": "penguinboo",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/c29368317914b8b87297e73759d7c539_6313030412877461397.png",
+    "rank": "A"
+  },
+  "53002": {
+    "item_id": 53002,
+    "name": "Luckyboo",
+    "slug": "luckyboo",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/4a21245daa6c2ebb699609e5c21ac7b1_3418483636709638840.png",
+    "rank": "A"
+  },
+  "53003": {
+    "item_id": 53003,
+    "name": "Exploreboo",
+    "slug": "exploreboo",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/5658aeee3f8e2dbf9939f13c4efc9f88_833714919533181344.png",
+    "rank": "A"
+  },
+  "53004": {
+    "item_id": 53004,
+    "name": "Sumoboo",
+    "slug": "sumoboo",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/d3222a7290c0e73b49d656cfcb9e4e96_4053830838147873374.png",
+    "rank": "A"
+  },
+  "53005": {
+    "item_id": 53005,
+    "name": "Paperboo",
+    "slug": "paperboo",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/bbf85fb1d5b180fa46da0fff4a18f6eb_3014407985961115324.png",
+    "rank": "A"
+  },
+  "53006": {
+    "item_id": 53006,
+    "name": "Bagboo",
+    "slug": "bagboo",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/247cefe8b90f1c41d46b6dcc3270fd34_567922453313388128.png",
+    "rank": "A"
+  },
+  "53007": {
+    "item_id": 53007,
+    "name": "Cryboo",
+    "slug": "cryboo",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/1796c4c3a6869affd86e33cf8a58c5ff_8118140840630282310.png",
+    "rank": "A"
+  },
+  "53008": {
+    "item_id": 53008,
+    "name": "Avocaboo",
+    "slug": "avocaboo",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/3198c1a7bb1fecf219041a13ebcecfe0_2193783951824854140.png",
+    "rank": "A"
+  },
+  "53009": {
+    "item_id": 53009,
+    "name": "Boollseye",
+    "slug": "boollseye",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/d412e63fd4c7d78b178601631f02f815_3317781704418605651.png",
+    "rank": "A"
+  },
+  "53010": {
+    "item_id": 53010,
+    "name": "Electroboo",
+    "slug": "electroboo",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/95668b7af24000156f1321ca8dcb5c7f_4143971107533148763.png",
+    "rank": "A"
+  },
+  "53011": {
+    "item_id": 53011,
+    "name": "Magnetiboo",
+    "slug": "magnetiboo",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/2ed9c3365d582dbb398397880419fed4_7540467745115665008.png",
+    "rank": "A"
+  },
+  "53012": {
+    "item_id": 53012,
+    "name": "Booressure",
+    "slug": "booressure",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/acd784197cbbf3971a377423272ddc7d_8138514664537851687.png",
+    "rank": "A"
+  },
+  "53013": {
+    "item_id": 53013,
+    "name": "Baddieboo",
+    "slug": "baddieboo",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/11/05/457af0cf0900569ddb8fae305594bb84_1021397253864371510.png",
+    "rank": "A"
+  },
+  "53014": {
+    "item_id": 53014,
+    "name": "Overtimeboo",
+    "slug": "overtimeboo",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/04/24/6dc54753a47a433087cdd74c2840d577_5542521940628307938.png",
+    "rank": "A"
+  },
+  "53015": {
+    "item_id": 53015,
+    "name": "Brawlerboo",
+    "slug": "brawlerboo",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/17/850feec26efa8a7df6757c2ff1dcf50d_6562951712594193579.png",
+    "rank": "A"
+  },
+  "53016": {
+    "item_id": 53016,
+    "name": "Excaliboo",
+    "slug": "excaliboo",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/09/07/59155606/52983421a01aba057aa9b9b5867bf77e_5531867362809073662.png",
+    "rank": "A"
+  },
+  "53017": {
+    "item_id": 53017,
+    "name": "Knightboo",
+    "slug": "knightboo",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/11/05/ad73997f6f94639d8c8acc540c6f6aa5_9072759022640159376.png",
+    "rank": "A"
+  },
+  "53019": {
+    "item_id": 53019,
+    "name": "Bild N. Boolok",
+    "slug": "bild-n-boolok",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/11/28/474051746/5d8267aee09de897da2dabbf1eae6768_4132266831706855382.png",
+    "rank": "A"
+  },
+  "53021": {
+    "item_id": 53021,
+    "name": "Booltergeist",
+    "slug": "booltergeist",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/05/08/62c3dab880f1c85734cd9e7d53f9794b_8082585354551214192.png",
+    "rank": "A"
+  },
+  "54001": {
+    "item_id": 54001,
+    "name": "Sharkboo",
+    "slug": "sharkboo",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/ef8cc9f59207333d7e9b93e323174f4b_2828404797300318300.png",
+    "rank": "S"
+  },
+  "54002": {
+    "item_id": 54002,
+    "name": "Safety",
+    "slug": "safety",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/fa7c182438c2f230e9a01ddc0a317cba_315502179848001970.png",
+    "rank": "S"
+  },
+  "54003": {
+    "item_id": 54003,
+    "name": "Devilboo",
+    "slug": "devilboo",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/0ed93968fadcbad2fb94eee71e7088c8_941461503715938824.png",
+    "rank": "A"
+  },
+  "54004": {
+    "item_id": 54004,
+    "name": "Butler",
+    "slug": "butler",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/fb3914a1488716327e469929b28728ef_8696629486627479.png",
+    "rank": "S"
+  },
+  "54005": {
+    "item_id": 54005,
+    "name": "Amillion",
+    "slug": "amillion",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/71357dfb8c243a1619d03d65b070fb1c_395166022161070081.png",
+    "rank": "S"
+  },
+  "54006": {
+    "item_id": 54006,
+    "name": "Rocketboo",
+    "slug": "rocketboo",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/c51c8bcd60b1b599cf3f091c7b67b3f7_2111119770782429713.png",
+    "rank": "S"
+  },
+  "54008": {
+    "item_id": 54008,
+    "name": "Plugboo",
+    "slug": "plugboo",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/3a0d0a23707bbfeb2d616bef1a4dea9a_7131809150332902257.png",
+    "rank": "S"
+  },
+  "54009": {
+    "item_id": 54009,
+    "name": "Resonaboo",
+    "slug": "resonaboo",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/26/59155606/20660fe2f1fc198c07dbc673ff360491_5522051223781615662.png",
+    "rank": "S"
+  },
+  "54010": {
+    "item_id": 54010,
+    "name": "Biggest Fan",
+    "slug": "biggest-fan",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/02/05/77d11fa4faf54fe8ca0c18f5e368eaa9_379200820967016904.png",
+    "rank": "S"
+  },
+  "54011": {
+    "item_id": 54011,
+    "name": "Red Moccus",
+    "slug": "red-moccus",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/24/c694907087b4d27ff483079c5ffd28de_1684969379869720913.png",
+    "rank": "S"
+  },
+  "54012": {
+    "item_id": 54012,
+    "name": "Officer Cui",
+    "slug": "officer-cui",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/08/12/b372bf18ed2b7ae9918ba4b712a56657_2534081724474846765.png",
+    "rank": "S"
+  },
+  "54013": {
+    "item_id": 54013,
+    "name": "Bangvolver",
+    "slug": "bangvolver",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/08/28/59155606/4703576ebe3be6b50d05faf6ec0c3b54_4890847764650360615.png",
+    "rank": "S"
+  },
+  "54014": {
+    "item_id": 54014,
+    "name": "Agent Gulliver",
+    "slug": "agent-gulliver",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/17/a1daa7a41f6b4bbaeda796a472ba94f1_2378089684975694227.png",
+    "rank": "S"
+  },
+  "54015": {
+    "item_id": 54015,
+    "name": "Snap",
+    "slug": "snap",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/01/21/08f138a21e5316365df117bbb8c33649_7249088401415481246.png",
+    "rank": "S"
+  },
+  "54016": {
+    "item_id": 54016,
+    "name": "Robin",
+    "slug": "robin",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/04/22/c1c9a5cb2f97b9a71d7c53f0bb598b89_653426787556706629.png",
+    "rank": "S"
+  },
+  "54017": {
+    "item_id": 54017,
+    "name": "Belion",
+    "slug": "belion",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/06/04/70207dd0e8f09febea6b1e06e07e722d_5703079003259620936.png",
+    "rank": "S"
+  },
+  "54018": {
+    "item_id": 54018,
+    "name": "Miss Esme",
+    "slug": "miss-esme",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/07/15/59155606/d23cb9a24d25c31a8b2cb84b20b7f2a8_1595507726400415338.png",
+    "rank": "S"
+  },
+  "54019": {
+    "item_id": 54019,
+    "name": "Mercury",
+    "slug": "mercury",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/09/01/bdcc44d0491df9c46dd1fd0cc1d120c0_7355865823165425613.png",
+    "rank": "S"
+  },
+  "54020": {
+    "item_id": 54020,
+    "name": "Birkblick",
+    "slug": "birkblick",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/11/26/f51dfaee63cc8ade66834e4865d63d6f_8799704040233724924.png",
+    "rank": "S"
+  },
+  "54021": {
+    "item_id": 54021,
+    "name": "Sprout",
+    "slug": "sprout",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/12/30/59155606/e9c641b8db057f51a644c54d54621b97_5995758988159913770.png",
+    "rank": "S"
+  },
+  "54022": {
+    "item_id": 54022,
+    "name": "Ultra Jake",
+    "slug": "ultra-jake",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/06/16/537827828c797dea5947fc87d16c19d9_376268456910417094.png",
+    "rank": "S"
+  },
+  "54023": {
+    "item_id": 54023,
+    "name": "Ariel",
+    "slug": "ariel",
+    "icon_url": "",
+    "rank": "S"
+  },
+  "55098": {
+    "item_id": 55098,
+    "name": "Eous",
+    "slug": "eous",
+    "icon_url": null,
+    "rank": "A"
+  }
+}

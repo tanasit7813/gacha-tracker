@@ -9,9 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.110.8",
+    "enka-network-api": "^5.0.16",
+    "genshin-data": "^0.61.0",
     "next": "16.2.11",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "starrail.js": "^1.9.10"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
@@ -22,5 +26,11 @@
     "eslint-config-next": "16.2.11",
     "tailwindcss": "^4",
     "typescript": "^5"
+  },
+  "allowScripts": {
+    "sharp@0.34.5": true,
+    "unrs-resolver@1.12.2": true,
+    "enka-network-api@5.0.16": true,
+    "starrail.js@1.9.10": true
   }
 }

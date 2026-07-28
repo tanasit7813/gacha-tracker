@@ -1,0 +1,762 @@
+{
+  "1001": {
+    "name": {
+      "en": "March 7th",
+      "th": "March 7th"
+    },
+    "icon_name": "1001.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1001.png"
+  },
+  "1002": {
+    "name": {
+      "en": "Dan Heng",
+      "th": "Dan Heng"
+    },
+    "icon_name": "1002.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1002.png"
+  },
+  "1003": {
+    "name": {
+      "en": "Himeko",
+      "th": "Himeko"
+    },
+    "icon_name": "1003.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1003.png"
+  },
+  "1004": {
+    "name": {
+      "en": "Welt",
+      "th": "Welt"
+    },
+    "icon_name": "1004.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1004.png"
+  },
+  "1005": {
+    "name": {
+      "en": "Kafka",
+      "th": "Kafka"
+    },
+    "icon_name": "1005.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1005.png"
+  },
+  "1006": {
+    "name": {
+      "en": "Silver Wolf",
+      "th": "Silver Wolf"
+    },
+    "icon_name": "1006.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1006.png"
+  },
+  "1008": {
+    "name": {
+      "en": "Arlan",
+      "th": "Arlan"
+    },
+    "icon_name": "1008.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1008.png"
+  },
+  "1009": {
+    "name": {
+      "en": "Asta",
+      "th": "Asta"
+    },
+    "icon_name": "1009.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1009.png"
+  },
+  "1013": {
+    "name": {
+      "en": "Herta",
+      "th": "Herta"
+    },
+    "icon_name": "1013.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1013.png"
+  },
+  "1014": {
+    "name": {
+      "en": "Saber",
+      "th": "Saber"
+    },
+    "icon_name": "1014.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1014.png"
+  },
+  "1015": {
+    "name": {
+      "en": "Archer",
+      "th": "Archer"
+    },
+    "icon_name": "1015.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1015.png"
+  },
+  "1101": {
+    "name": {
+      "en": "Bronya",
+      "th": "Bronya"
+    },
+    "icon_name": "1101.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1101.png"
+  },
+  "1102": {
+    "name": {
+      "en": "Seele",
+      "th": "Seele"
+    },
+    "icon_name": "1102.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1102.png"
+  },
+  "1103": {
+    "name": {
+      "en": "Serval",
+      "th": "Serval"
+    },
+    "icon_name": "1103.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1103.png"
+  },
+  "1104": {
+    "name": {
+      "en": "Gepard",
+      "th": "Gepard"
+    },
+    "icon_name": "1104.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1104.png"
+  },
+  "1105": {
+    "name": {
+      "en": "Natasha",
+      "th": "Natasha"
+    },
+    "icon_name": "1105.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1105.png"
+  },
+  "1106": {
+    "name": {
+      "en": "Pela",
+      "th": "Pela"
+    },
+    "icon_name": "1106.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1106.png"
+  },
+  "1107": {
+    "name": {
+      "en": "Clara",
+      "th": "Clara"
+    },
+    "icon_name": "1107.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1107.png"
+  },
+  "1108": {
+    "name": {
+      "en": "Sampo",
+      "th": "Sampo"
+    },
+    "icon_name": "1108.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1108.png"
+  },
+  "1109": {
+    "name": {
+      "en": "Hook",
+      "th": "Hook"
+    },
+    "icon_name": "1109.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1109.png"
+  },
+  "1110": {
+    "name": {
+      "en": "Lynx",
+      "th": "Lynx"
+    },
+    "icon_name": "1110.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1110.png"
+  },
+  "1111": {
+    "name": {
+      "en": "Luka",
+      "th": "Luka"
+    },
+    "icon_name": "1111.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1111.png"
+  },
+  "1112": {
+    "name": {
+      "en": "Topaz & Numby",
+      "th": "Topaz & Numby"
+    },
+    "icon_name": "1112.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1112.png"
+  },
+  "1201": {
+    "name": {
+      "en": "Qingque",
+      "th": "Qingque"
+    },
+    "icon_name": "1201.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1201.png"
+  },
+  "1202": {
+    "name": {
+      "en": "Tingyun",
+      "th": "Tingyun"
+    },
+    "icon_name": "1202.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1202.png"
+  },
+  "1203": {
+    "name": {
+      "en": "Luocha",
+      "th": "Luocha"
+    },
+    "icon_name": "1203.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1203.png"
+  },
+  "1204": {
+    "name": {
+      "en": "Jing Yuan",
+      "th": "Jing Yuan"
+    },
+    "icon_name": "1204.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1204.png"
+  },
+  "1205": {
+    "name": {
+      "en": "Blade",
+      "th": "Blade"
+    },
+    "icon_name": "1205.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1205.png"
+  },
+  "1206": {
+    "name": {
+      "en": "Sushang",
+      "th": "Sushang"
+    },
+    "icon_name": "1206.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1206.png"
+  },
+  "1207": {
+    "name": {
+      "en": "Yukong",
+      "th": "Yukong"
+    },
+    "icon_name": "1207.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1207.png"
+  },
+  "1208": {
+    "name": {
+      "en": "Fu Xuan",
+      "th": "Fu Xuan"
+    },
+    "icon_name": "1208.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1208.png"
+  },
+  "1209": {
+    "name": {
+      "en": "Yanqing",
+      "th": "Yanqing"
+    },
+    "icon_name": "1209.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1209.png"
+  },
+  "1210": {
+    "name": {
+      "en": "Guinaifen",
+      "th": "Guinaifen"
+    },
+    "icon_name": "1210.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1210.png"
+  },
+  "1211": {
+    "name": {
+      "en": "Bailu",
+      "th": "Bailu"
+    },
+    "icon_name": "1211.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1211.png"
+  },
+  "1212": {
+    "name": {
+      "en": "Jingliu",
+      "th": "Jingliu"
+    },
+    "icon_name": "1212.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1212.png"
+  },
+  "1213": {
+    "name": {
+      "en": "Dan Heng • Imbibitor Lunae",
+      "th": "Dan Heng - จ้าวยลจันทรา"
+    },
+    "icon_name": "1213.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1213.png"
+  },
+  "1214": {
+    "name": {
+      "en": "Xueyi",
+      "th": "Xueyi"
+    },
+    "icon_name": "1214.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1214.png"
+  },
+  "1215": {
+    "name": {
+      "en": "Hanya",
+      "th": "Hanya"
+    },
+    "icon_name": "1215.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1215.png"
+  },
+  "1217": {
+    "name": {
+      "en": "Huohuo",
+      "th": "Huohuo"
+    },
+    "icon_name": "1217.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1217.png"
+  },
+  "1218": {
+    "name": {
+      "en": "Jiaoqiu",
+      "th": "Jiaoqiu"
+    },
+    "icon_name": "1218.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1218.png"
+  },
+  "1220": {
+    "name": {
+      "en": "Feixiao",
+      "th": "Feixiao"
+    },
+    "icon_name": "1220.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1220.png"
+  },
+  "1221": {
+    "name": {
+      "en": "Yunli",
+      "th": "Yunli"
+    },
+    "icon_name": "1221.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1221.png"
+  },
+  "1222": {
+    "name": {
+      "en": "Lingsha",
+      "th": "Lingsha"
+    },
+    "icon_name": "1222.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1222.png"
+  },
+  "1223": {
+    "name": {
+      "en": "Moze",
+      "th": "Moze"
+    },
+    "icon_name": "1223.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1223.png"
+  },
+  "1224": {
+    "name": {
+      "en": "March 7th",
+      "th": "March 7th"
+    },
+    "icon_name": "1224.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1224.png"
+  },
+  "1225": {
+    "name": {
+      "en": "Fugue",
+      "th": "ผู้จากจรลืมหวน"
+    },
+    "icon_name": "1225.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1225.png"
+  },
+  "1301": {
+    "name": {
+      "en": "Gallagher",
+      "th": "Gallagher"
+    },
+    "icon_name": "1301.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1301.png"
+  },
+  "1302": {
+    "name": {
+      "en": "Argenti",
+      "th": "Argenti"
+    },
+    "icon_name": "1302.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1302.png"
+  },
+  "1303": {
+    "name": {
+      "en": "Ruan Mei",
+      "th": "Ruan Mei"
+    },
+    "icon_name": "1303.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1303.png"
+  },
+  "1304": {
+    "name": {
+      "en": "Aventurine",
+      "th": "Aventurine"
+    },
+    "icon_name": "1304.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1304.png"
+  },
+  "1305": {
+    "name": {
+      "en": "Dr. Ratio",
+      "th": "Dr. Ratio"
+    },
+    "icon_name": "1305.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1305.png"
+  },
+  "1306": {
+    "name": {
+      "en": "Sparkle",
+      "th": "Sparkle"
+    },
+    "icon_name": "1306.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1306.png"
+  },
+  "1307": {
+    "name": {
+      "en": "Black Swan",
+      "th": "Black Swan"
+    },
+    "icon_name": "1307.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1307.png"
+  },
+  "1308": {
+    "name": {
+      "en": "Acheron",
+      "th": "Acheron"
+    },
+    "icon_name": "1308.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1308.png"
+  },
+  "1309": {
+    "name": {
+      "en": "Robin",
+      "th": "Robin"
+    },
+    "icon_name": "1309.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1309.png"
+  },
+  "1310": {
+    "name": {
+      "en": "Firefly",
+      "th": "Firefly"
+    },
+    "icon_name": "1310.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1310.png"
+  },
+  "1312": {
+    "name": {
+      "en": "Misha",
+      "th": "Misha"
+    },
+    "icon_name": "1312.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1312.png"
+  },
+  "1313": {
+    "name": {
+      "en": "Sunday",
+      "th": "Sunday"
+    },
+    "icon_name": "1313.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1313.png"
+  },
+  "1314": {
+    "name": {
+      "en": "Jade",
+      "th": "Jade"
+    },
+    "icon_name": "1314.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1314.png"
+  },
+  "1315": {
+    "name": {
+      "en": "Boothill",
+      "th": "Boothill"
+    },
+    "icon_name": "1315.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1315.png"
+  },
+  "1317": {
+    "name": {
+      "en": "Rappa",
+      "th": "Rappa"
+    },
+    "icon_name": "1317.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1317.png"
+  },
+  "1321": {
+    "name": {
+      "en": "The Dahlia",
+      "th": "ดอกดาห์เลีย"
+    },
+    "icon_name": "1321.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1321.png"
+  },
+  "1401": {
+    "name": {
+      "en": "The Herta",
+      "th": "ท่าน Herta"
+    },
+    "icon_name": "1401.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1401.png"
+  },
+  "1402": {
+    "name": {
+      "en": "Aglaea",
+      "th": "Aglaea"
+    },
+    "icon_name": "1402.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1402.png"
+  },
+  "1403": {
+    "name": {
+      "en": "Tribbie",
+      "th": "Tribbie"
+    },
+    "icon_name": "1403.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1403.png"
+  },
+  "1404": {
+    "name": {
+      "en": "Mydei",
+      "th": "Mydei"
+    },
+    "icon_name": "1404.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1404.png"
+  },
+  "1405": {
+    "name": {
+      "en": "Anaxa",
+      "th": "Anaxa"
+    },
+    "icon_name": "1405.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1405.png"
+  },
+  "1406": {
+    "name": {
+      "en": "Cipher",
+      "th": "Cipher"
+    },
+    "icon_name": "1406.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1406.png"
+  },
+  "1407": {
+    "name": {
+      "en": "Castorice",
+      "th": "Castorice"
+    },
+    "icon_name": "1407.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1407.png"
+  },
+  "1408": {
+    "name": {
+      "en": "Phainon",
+      "th": "Phainon"
+    },
+    "icon_name": "1408.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1408.png"
+  },
+  "1409": {
+    "name": {
+      "en": "Hyacine",
+      "th": "Hyacine"
+    },
+    "icon_name": "1409.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1409.png"
+  },
+  "1410": {
+    "name": {
+      "en": "Hysilens",
+      "th": "Hysilens"
+    },
+    "icon_name": "1410.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1410.png"
+  },
+  "1412": {
+    "name": {
+      "en": "Cerydra",
+      "th": "Cerydra"
+    },
+    "icon_name": "1412.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1412.png"
+  },
+  "1413": {
+    "name": {
+      "en": "Evernight",
+      "th": "Evernight"
+    },
+    "icon_name": "1413.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1413.png"
+  },
+  "1414": {
+    "name": {
+      "en": "Dan Heng • Permansor Terrae",
+      "th": "Dan Heng - จ้าวทระนงคงปฐพี"
+    },
+    "icon_name": "1414.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1414.png"
+  },
+  "1415": {
+    "name": {
+      "en": "Cyrene",
+      "th": "Cyrene"
+    },
+    "icon_name": "1415.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1415.png"
+  },
+  "1501": {
+    "name": {
+      "en": "Sparxie",
+      "th": "Sparxie"
+    },
+    "icon_name": "1501.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1501.png"
+  },
+  "1502": {
+    "name": {
+      "en": "Yao Guang",
+      "th": "Yao Guang"
+    },
+    "icon_name": "1502.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1502.png"
+  },
+  "1504": {
+    "name": {
+      "en": "Ashveil",
+      "th": "Ashveil"
+    },
+    "icon_name": "1504.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1504.png"
+  },
+  "1505": {
+    "name": {
+      "en": "Evanescia",
+      "th": "Evanescia"
+    },
+    "icon_name": "1505.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1505.png"
+  },
+  "1506": {
+    "name": {
+      "en": "Silver Wolf LV.<unbreak>999</unbreak>",
+      "th": "Silver Wolf LV.<unbreak>999</unbreak>"
+    },
+    "icon_name": "1506.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1506.png"
+  },
+  "1507": {
+    "name": {
+      "en": "Mortenax Blade",
+      "th": "ผู้ฝ่าบ่วงมฤตยู Blade"
+    },
+    "icon_name": "1507.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1507.png"
+  },
+  "1508": {
+    "name": {
+      "en": "Rin Tohsaka",
+      "th": "Rin Tohsaka"
+    },
+    "icon_name": "1508.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1508.png"
+  },
+  "1509": {
+    "name": {
+      "en": "Gilgamesh",
+      "th": "Gilgamesh"
+    },
+    "icon_name": "1509.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1509.png"
+  },
+  "1510": {
+    "name": {
+      "en": "Himeko • Nova",
+      "th": "Himeko - นวดารา"
+    },
+    "icon_name": "1510.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/1510.png"
+  },
+  "8001": {
+    "name": {
+      "en": "{NICKNAME}",
+      "th": "{NICKNAME}"
+    },
+    "icon_name": "8001.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8001.png"
+  },
+  "8002": {
+    "name": {
+      "en": "{NICKNAME}",
+      "th": "{NICKNAME}"
+    },
+    "icon_name": "8002.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8002.png"
+  },
+  "8003": {
+    "name": {
+      "en": "{NICKNAME}",
+      "th": "{NICKNAME}"
+    },
+    "icon_name": "8003.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8003.png"
+  },
+  "8004": {
+    "name": {
+      "en": "{NICKNAME}",
+      "th": "{NICKNAME}"
+    },
+    "icon_name": "8004.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8004.png"
+  },
+  "8005": {
+    "name": {
+      "en": "{NICKNAME}",
+      "th": "{NICKNAME}"
+    },
+    "icon_name": "8005.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8005.png"
+  },
+  "8006": {
+    "name": {
+      "en": "{NICKNAME}",
+      "th": "{NICKNAME}"
+    },
+    "icon_name": "8006.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8006.png"
+  },
+  "8007": {
+    "name": {
+      "en": "{NICKNAME}",
+      "th": "{NICKNAME}"
+    },
+    "icon_name": "8007.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8007.png"
+  },
+  "8008": {
+    "name": {
+      "en": "{NICKNAME}",
+      "th": "{NICKNAME}"
+    },
+    "icon_name": "8008.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8008.png"
+  },
+  "8009": {
+    "name": {
+      "en": "{NICKNAME}",
+      "th": "{NICKNAME}"
+    },
+    "icon_name": "8009.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8009.png"
+  },
+  "8010": {
+    "name": {
+      "en": "{NICKNAME}",
+      "th": "{NICKNAME}"
+    },
+    "icon_name": "8010.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/character/8010.png"
+  }
+}

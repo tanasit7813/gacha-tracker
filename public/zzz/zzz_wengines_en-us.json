@@ -1,0 +1,667 @@
+{
+  "12001": {
+    "item_id": 12001,
+    "name": "[Lunar] Pleniluna",
+    "slug": "lunar-pleniluna",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/16/59155606/62251019ac4ef58fd4c279f83524cd84_8673570095201293992.png",
+    "rank": "B"
+  },
+  "12002": {
+    "item_id": 12002,
+    "name": "[Lunar] Decrescent",
+    "slug": "lunar-decrescent",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/941a1dbc1f0f5ea154f89a977688f56f_1156398786124148806.png",
+    "rank": "B"
+  },
+  "12003": {
+    "item_id": 12003,
+    "name": "[Lunar] Noviluna",
+    "slug": "lunar-noviluna",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/02ec27514360d65720b1b8fb011fdd65_3377460363300660205.png",
+    "rank": "B"
+  },
+  "12004": {
+    "item_id": 12004,
+    "name": "[Reverb] Mark I",
+    "slug": "reverb-mark-i",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/253bf13e8132045687243a7d28afa23f_4175164654114055939.png",
+    "rank": "B"
+  },
+  "12005": {
+    "item_id": 12005,
+    "name": "[Reverb] Mark II",
+    "slug": "reverb-mark-ii",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/a7cf76336e9afdd9d38f9d652d516d94_570435698770315695.png",
+    "rank": "B"
+  },
+  "12006": {
+    "item_id": 12006,
+    "name": "[Reverb] Mark III",
+    "slug": "reverb-mark-iii",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/059a75f3681deb2e9c78cc9835dc82b8_4337695145901130493.png",
+    "rank": "B"
+  },
+  "12007": {
+    "item_id": 12007,
+    "name": "[Vortex] Revolver",
+    "slug": "vortex-revolver",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/678e013c400c296a78738177b6a1a5a8_887465183471254524.png",
+    "rank": "B"
+  },
+  "12008": {
+    "item_id": 12008,
+    "name": "[Vortex] Arrow",
+    "slug": "vortex-arrow",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/95b56323f1157a73903b58b0d0618d82_1108845874751914790.png",
+    "rank": "B"
+  },
+  "12009": {
+    "item_id": 12009,
+    "name": "[Vortex] Hatchet",
+    "slug": "vortex-hatchet",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/89d2801f10986bbe99af9a42e4042810_4712168767714525997.png",
+    "rank": "B"
+  },
+  "12010": {
+    "item_id": 12010,
+    "name": "[Magnetic Storm] Alpha",
+    "slug": "magnetic-storm-alpha",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/21d0c3aa5c78d4b856edbb9d17159078_8544476212990273101.png",
+    "rank": "B"
+  },
+  "12011": {
+    "item_id": 12011,
+    "name": "[Magnetic Storm] Bravo",
+    "slug": "magnetic-storm-bravo",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/a18b73a46dd4d1a1ac44b316b6ad03c9_3990962564188903387.png",
+    "rank": "B"
+  },
+  "12012": {
+    "item_id": 12012,
+    "name": "[Magnetic Storm] Charlie",
+    "slug": "magnetic-storm-charlie",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/c9c75ae6e211e91707bed1335b6c0091_9191335447820120341.png",
+    "rank": "B"
+  },
+  "12013": {
+    "item_id": 12013,
+    "name": "[Identity] Base",
+    "slug": "identity-base",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/b2518a5c40e0afebe91b2095726ad09b_7263349847236751126.png",
+    "rank": "B"
+  },
+  "12014": {
+    "item_id": 12014,
+    "name": "[Identity] Inflection",
+    "slug": "identity-inflection",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/ab8ffe09eb3a17509712aeeb08c81907_1283971319884420897.png",
+    "rank": "B"
+  },
+  "12015": {
+    "item_id": 12015,
+    "name": "[Cinder] Cobalt",
+    "slug": "cinder-cobalt",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/06/04/53a56ca282e4e2a024e1373cb2e1fe38_390976530198885023.png",
+    "rank": "B"
+  },
+  "13001": {
+    "item_id": 13001,
+    "name": "Street Superstar",
+    "slug": "street-superstar",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/01d76f16b402716d76700acc35626517_1680660751631434746.png",
+    "rank": "A"
+  },
+  "13002": {
+    "item_id": 13002,
+    "name": "Slice of Time",
+    "slug": "slice-of-time",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/a945c3ba4d4b10a5be94ce9350f81268_562832290300471071.png",
+    "rank": "A"
+  },
+  "13003": {
+    "item_id": 13003,
+    "name": "Rainforest Gourmet",
+    "slug": "rainforest-gourmet",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/859457119870b43e2e323651436b82e2_9062790354295784915.png",
+    "rank": "A"
+  },
+  "13004": {
+    "item_id": 13004,
+    "name": "Starlight Engine",
+    "slug": "starlight-engine",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/4c71730c100ac556417529a8e4598d36_495802607117684167.png",
+    "rank": "A"
+  },
+  "13005": {
+    "item_id": 13005,
+    "name": "Steam Oven",
+    "slug": "steam-oven",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/7928a573debd995598d48b0f3d5cb88b_1422676556429326658.png",
+    "rank": "A"
+  },
+  "13006": {
+    "item_id": 13006,
+    "name": "Precious Fossilized Core",
+    "slug": "precious-fossilized-core",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/c97a046a5728d2e5eb420a1ca63e99d2_5858075999154042711.png",
+    "rank": "A"
+  },
+  "13007": {
+    "item_id": 13007,
+    "name": "Original Transmorpher",
+    "slug": "original-transmorpher",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/09d6a527710604c64683c74ce0185cf9_4654790522065115078.png",
+    "rank": "A"
+  },
+  "13008": {
+    "item_id": 13008,
+    "name": "Weeping Gemini",
+    "slug": "weeping-gemini",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/198cf01b8c620882b72deab5a23c7cdd_3427742370877119076.png",
+    "rank": "A"
+  },
+  "13009": {
+    "item_id": 13009,
+    "name": "Electro-Lip Gloss",
+    "slug": "electro-lip-gloss",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/d40322e5c28b18493b8893d34f0fc9ef_6655163887717015479.png",
+    "rank": "A"
+  },
+  "13010": {
+    "item_id": 13010,
+    "name": "Bunny Band",
+    "slug": "bunny-band",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/a750117496e57acbaa3dc4dd09f4101d_7482375033344127713.png",
+    "rank": "A"
+  },
+  "13011": {
+    "item_id": 13011,
+    "name": "Spring Embrace",
+    "slug": "spring-embrace",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/4910d45c5519a6e8c08b440105af486b_2065464364971330070.png",
+    "rank": "A"
+  },
+  "13012": {
+    "item_id": 13012,
+    "name": "Puzzle Sphere",
+    "slug": "puzzle-sphere",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/06/04/d310ab01798d3b2e4caa75f34af5da42_2651752688078568894.png",
+    "rank": "A"
+  },
+  "13013": {
+    "item_id": 13013,
+    "name": "Gilded Blossom",
+    "slug": "gilded-blossom",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/5b63bca946b316faea7131615d2fcb6c_7132563230648847361.png",
+    "rank": "A"
+  },
+  "13014": {
+    "item_id": 13014,
+    "name": "Radiowave Journey",
+    "slug": "radiowave-journey",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/06/04/ef282cf8ec1d3aef6ce351b63de67384_2586398929468765144.png",
+    "rank": "A"
+  },
+  "13015": {
+    "item_id": 13015,
+    "name": "Marcato Desire",
+    "slug": "marcato-desire",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/17/39a78589dda1ac70be47ef2202846348_3073969051264582602.png",
+    "rank": "A"
+  },
+  "13016": {
+    "item_id": 13016,
+    "name": "Reel Projector",
+    "slug": "reel-projector",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/06/25/59155606/2a62755529c7affe77bed867ae6dc71f_3578425343688040812.png",
+    "rank": "A"
+  },
+  "13018": {
+    "item_id": 13018,
+    "name": "Boisterous Echoes",
+    "slug": "boisterous-echoes",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2026/06/26/240767085/9129659d9eb94bb3fbe787fbb180d642_5061437054028433941.png",
+    "rank": "A"
+  },
+  "13019": {
+    "item_id": 13019,
+    "name": "Cauldron of Clarity",
+    "slug": "cauldron-of-clarity",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/12/31/59155606/63e3f6d2683157401b476fa488808e5d_3854734974944264878.png",
+    "rank": "A"
+  },
+  "13020": {
+    "item_id": 13020,
+    "name": "The Simmering Pot",
+    "slug": "the-simmering-pot",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/03/25/d486af68e7c3655083310604704d889a_7830640007843564499.png",
+    "rank": "A"
+  },
+  "13101": {
+    "item_id": 13101,
+    "name": "Demara Battery Mark II",
+    "slug": "demara-battery-mark-ii",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/16/59155606/28100408291b1bddadd6c416dcc2e5e4_8939534631315664139.png",
+    "rank": "A"
+  },
+  "13103": {
+    "item_id": 13103,
+    "name": "The Vault",
+    "slug": "the-vault",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/1e501eb6d186edb508944520bcca4aad_2038870684837184697.png",
+    "rank": "A"
+  },
+  "13106": {
+    "item_id": 13106,
+    "name": "Housekeeper",
+    "slug": "housekeeper",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/c5e3277e051b5ad10ec568c8ed62e472_3603367946966748963.png",
+    "rank": "A"
+  },
+  "13108": {
+    "item_id": 13108,
+    "name": "Starlight Engine Replica",
+    "slug": "starlight-engine-replica",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/4c71730c100ac556417529a8e4598d36_495802607117684167.png",
+    "rank": "A"
+  },
+  "13111": {
+    "item_id": 13111,
+    "name": "Drill Rig - Red Axis",
+    "slug": "drill-rig-red-axis",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/51cfdbcf65d8bca2826acec5ba5bd34c_8674847623930692474.png",
+    "rank": "A"
+  },
+  "13112": {
+    "item_id": 13112,
+    "name": "Big Cylinder",
+    "slug": "big-cylinder",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/3cc594d80af5a1661a0aae16298518e9_6406642665548105762.png",
+    "rank": "A"
+  },
+  "13113": {
+    "item_id": 13113,
+    "name": "Bashful Demon",
+    "slug": "bashful-demon",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/9fed705aa18fdde455ded51e4f907096_6619749083742542092.png",
+    "rank": "A"
+  },
+  "13115": {
+    "item_id": 13115,
+    "name": "Kaboom the Cannon",
+    "slug": "kaboom-the-cannon",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/6de89d4ff56df24f73d020c6f056376a_4283143925808708952.png",
+    "rank": "A"
+  },
+  "13127": {
+    "item_id": 13127,
+    "name": "Peacekeeper - Specialized",
+    "slug": "peacekeeper-specialized",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/0e84a53f3f31d0611aba264f2138b468_701891787772535538.png",
+    "rank": "A"
+  },
+  "13128": {
+    "item_id": 13128,
+    "name": "Roaring Ride",
+    "slug": "roaring-ride",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/59d21937c3fed5bbd95981b7348905f2_3822173513323375669.png",
+    "rank": "A"
+  },
+  "13135": {
+    "item_id": 13135,
+    "name": "Box Cutter",
+    "slug": "box-cutter",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/03/11/0d71e9944fc8b115afb13c1b04a66f98_1127682879979478466.png",
+    "rank": "A"
+  },
+  "13142": {
+    "item_id": 13142,
+    "name": "Tremor Trigram Vessel",
+    "slug": "tremor-trigram-vessel",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/06/25/59155606/8bb2c4e9bcd55ea328de19c549ee442b_8002672650949425306.png",
+    "rank": "A"
+  },
+  "13144": {
+    "item_id": 13144,
+    "name": "Grill O'Wisp",
+    "slug": "grill-o-wisp",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/10/14/07da3f94e491eeeb50491f1d8c0dfdda_7120678420596402422.png",
+    "rank": "A"
+  },
+  "14001": {
+    "item_id": 14001,
+    "name": "Cannon Rotor",
+    "slug": "cannon-rotor",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/af4b2e547d6735da28ae46769b9a832e_7627836278889964936.png",
+    "rank": "A"
+  },
+  "14002": {
+    "item_id": 14002,
+    "name": "Unfettered Game Ball",
+    "slug": "unfettered-game-ball",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/ebbceb9c733b032cc66fec9bab5b39cb_8604484069513406045.png",
+    "rank": "A"
+  },
+  "14003": {
+    "item_id": 14003,
+    "name": "Six Shooter",
+    "slug": "six-shooter",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/864547e11bff3e3c0a2eb77904e1a506_891269497984208258.png",
+    "rank": "A"
+  },
+  "14102": {
+    "item_id": 14102,
+    "name": "Steel Cushion",
+    "slug": "steel-cushion",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/fbf66943a7dea171bbe1876abec75ab3_2674764882864183966.png",
+    "rank": "S"
+  },
+  "14104": {
+    "item_id": 14104,
+    "name": "The Brimstone",
+    "slug": "the-brimstone",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/2cd3aa09c2f818eadf4ce632c5f421fd_1015413564355407020.png",
+    "rank": "S"
+  },
+  "14105": {
+    "item_id": 14105,
+    "name": "Kraken's Cradle",
+    "slug": "kraken-s-cradle",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/11/04/a2a2914e66b4598c3df7a10a053569d9_4577897805180921179.png",
+    "rank": "S"
+  },
+  "14107": {
+    "item_id": 14107,
+    "name": "Tusks of Fury",
+    "slug": "tusks-of-fury",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/31b6008c9ea5f6a1f195c64bba5440a0_7807923512987285251.png",
+    "rank": "S"
+  },
+  "14109": {
+    "item_id": 14109,
+    "name": "Hailstorm Shrine",
+    "slug": "hailstorm-shrine",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/17/3ba720942094686d01e37dd510b7b029_6895150963174798766.png",
+    "rank": "S"
+  },
+  "14110": {
+    "item_id": 14110,
+    "name": "Hellfire Gears",
+    "slug": "hellfire-gears",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/b7b68f095152ab344e48b988f9906250_6383938685292169082.png",
+    "rank": "S"
+  },
+  "14114": {
+    "item_id": 14114,
+    "name": "The Restrained",
+    "slug": "the-restrained",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/e635273d517c98e9724a7a11870c6fbb_5318007156738769807.png",
+    "rank": "S"
+  },
+  "14116": {
+    "item_id": 14116,
+    "name": "Blazing Laurel",
+    "slug": "blazing-laurel",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/01/24/59155606/85b7109dcfe6cdd717365fb541dbc4f3_175455885003423133.png",
+    "rank": "S"
+  },
+  "14117": {
+    "item_id": 14117,
+    "name": "Flamemaker Shaker",
+    "slug": "flamemaker-shaker",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/a6467e15e97985d628b20eed5c1cdc55_3577512956797888865.png",
+    "rank": "S"
+  },
+  "14118": {
+    "item_id": 14118,
+    "name": "Fusion Compiler",
+    "slug": "fusion-compiler",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/f870509a9a2979efe912c9d7785092b0_469868095369001461.png",
+    "rank": "S"
+  },
+  "14119": {
+    "item_id": 14119,
+    "name": "Deep Sea Visitor",
+    "slug": "deep-sea-visitor",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/b029d3bf8295e848bf4bb3cee7bee635_8613743280973482624.png",
+    "rank": "S"
+  },
+  "14120": {
+    "item_id": 14120,
+    "name": "Zanshin Herb Case",
+    "slug": "zanshin-herb-case",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/17/9861761e3b5e1ff05158695f68ce6320_132359921821463404.png",
+    "rank": "S"
+  },
+  "14121": {
+    "item_id": 14121,
+    "name": "Weeping Cradle",
+    "slug": "weeping-cradle",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/ef3bdba96582ab932e00f488d9d84241_7692518403739446202.png",
+    "rank": "S"
+  },
+  "14122": {
+    "item_id": 14122,
+    "name": "Timeweaver",
+    "slug": "timeweaver",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/7ba42d92bd7e5b61fce77a99254aaa1d_1045116850800338302.png",
+    "rank": "S"
+  },
+  "14124": {
+    "item_id": 14124,
+    "name": "Riot Suppressor Mark VI",
+    "slug": "riot-suppressor-mark-vi",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/03/31/59155606/563b6c4cc5443b1e0e37e8ee1e70e669_765172669951434277.png",
+    "rank": "S"
+  },
+  "14125": {
+    "item_id": 14125,
+    "name": "Ice-Jade Teapot",
+    "slug": "ice-jade-teapot",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/6758b3dad33fa7e9f42bd512ee306199_528260113735123123.png",
+    "rank": "S"
+  },
+  "14126": {
+    "item_id": 14126,
+    "name": "Sharpened Stinger",
+    "slug": "sharpened-stinger",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/15a02c67d9bcb3ba4b5727280adfb8fe_7968118421892873582.png",
+    "rank": "S"
+  },
+  "14129": {
+    "item_id": 14129,
+    "name": "Myriad Eclipse",
+    "slug": "myriad-eclipse",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/05/12/98909cbf623056db523606d4e69665ba_4635167969894840467.png",
+    "rank": "S"
+  },
+  "14130": {
+    "item_id": 14130,
+    "name": "Bellicose Blaze",
+    "slug": "bellicose-blaze",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/09/22/59155606/f4ebc40570fd372ca981dd7836eb380c_4194997547185602780.png",
+    "rank": "S"
+  },
+  "14131": {
+    "item_id": 14131,
+    "name": "Elegant Vanity",
+    "slug": "elegant-vanity",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/01/21/fe22f5f4612f362a6a28b0da2194555b_1853277245761359592.png",
+    "rank": "S"
+  },
+  "14132": {
+    "item_id": 14132,
+    "name": "Heartstring Nocturne",
+    "slug": "heartstring-nocturne",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/02/11/4f3ce3559526fdfea55f000843d6b787_3222446032412264157.png",
+    "rank": "S"
+  },
+  "14133": {
+    "item_id": 14133,
+    "name": "Flight of Fancy",
+    "slug": "flight-of-fancy",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/04/22/da3ee1e35d1fb8661b92bfa2dc020ce4_5592531544693888746.png",
+    "rank": "S"
+  },
+  "14134": {
+    "item_id": 14134,
+    "name": "Half-Sugar Bunny",
+    "slug": "half-sugar-bunny",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/12/30/59155606/61787b38b58776826be6b00d8385f9be_1459314971479821507.png",
+    "rank": "S"
+  },
+  "14136": {
+    "item_id": 14136,
+    "name": "Spectral Gaze",
+    "slug": "spectral-gaze",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/03/31/42b0420521c0c59c4cb2dedc6e9c3e64_3256610825821672154.png",
+    "rank": "S"
+  },
+  "14137": {
+    "item_id": 14137,
+    "name": "Qingming Birdcage",
+    "slug": "qingming-birdcage",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/06/25/59155606/4a86cd5dbdbd10f0f297d0432de45073_613558701026888051.png",
+    "rank": "S"
+  },
+  "14138": {
+    "item_id": 14138,
+    "name": "Severed Innocence",
+    "slug": "severed-innocence",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/03/11/ed06c4561c09feb19323207a4cfcf5f3_4127693961259843580.png",
+    "rank": "S"
+  },
+  "14139": {
+    "item_id": 14139,
+    "name": "Roaring Fur-nace",
+    "slug": "roaring-fur-nace",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/06/25/59155606/08f1ad57e2f2e31e939ed54cf19645e7_80954305085037850.png",
+    "rank": "S"
+  },
+  "14140": {
+    "item_id": 14140,
+    "name": "Practiced Perfection",
+    "slug": "practiced-perfection",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/08/04/782dda131bfeebcb259fd09a6c2c739c_7567985947461468602.png",
+    "rank": "S"
+  },
+  "14141": {
+    "item_id": 14141,
+    "name": "Metanukimorphosis",
+    "slug": "metanukimorphosis",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/07/15/59155606/2a47f6fd4b15e1897adb1bdc3bfbf136_6268006183391436165.png",
+    "rank": "S"
+  },
+  "14143": {
+    "item_id": 14143,
+    "name": "Cloudcleave Radiance",
+    "slug": "cloudcleave-radiance",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/12/30/59155606/8cc78156ffeab01bfc9c46bfebb157fa_5929097259754456944.png",
+    "rank": "S"
+  },
+  "14145": {
+    "item_id": 14145,
+    "name": "Dreamlit Hearth",
+    "slug": "dreamlit-hearth",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/10/14/4ab6ae1bc6a56fb59fc3e666ec6f37a6_8611229957736642529.png",
+    "rank": "S"
+  },
+  "14146": {
+    "item_id": 14146,
+    "name": "Cordis Germina",
+    "slug": "cordis-germina",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/09/01/e21587192a5b46941058a792f1afe1d5_7965701121486029526.png",
+    "rank": "S"
+  },
+  "14147": {
+    "item_id": 14147,
+    "name": "Wrathful Vajra",
+    "slug": "wrathful-vajra",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/12/15/874329a7e72be533f5c96858cabbf1a3_2005609521939481615.png",
+    "rank": "S"
+  },
+  "14148": {
+    "item_id": 14148,
+    "name": "Yesterday Calls",
+    "slug": "yesterday-calls",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/11/26/f213acba7e16bd918e6f5d4c0c678432_8047080685556807789.png",
+    "rank": "S"
+  },
+  "14149": {
+    "item_id": 14149,
+    "name": "Thoughtbop",
+    "slug": "thoughtbop",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/02/05/0af2bbd4bdf40cdc16376868f1ee15d8_5083234823122454066.png",
+    "rank": "S"
+  },
+  "14150": {
+    "item_id": 14150,
+    "name": "Angel in the Shell",
+    "slug": "angel-in-the-shell",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/03/03/23fca300946f6282a8abe30f462371d8_1539672253425020996.png",
+    "rank": "S"
+  },
+  "14151": {
+    "item_id": 14151,
+    "name": "Neon Fantasies",
+    "slug": "neon-fantasies",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/03/23/539cf1f6f04a758963355009c4fda5fb_404168684771958150.png",
+    "rank": "S"
+  },
+  "14152": {
+    "item_id": 14152,
+    "name": "Serpentine Seeker",
+    "slug": "serpentine-seeker",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/04/13/f568435d8661907dda9d6dcc2f236b0e_7200420645611878871.png",
+    "rank": "S"
+  },
+  "14153": {
+    "item_id": 14153,
+    "name": "Starlight Rider Faceplate",
+    "slug": "starlight-rider-faceplate",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/05/25/8fba6fca9b4ffacbb9838d5f03f54979_1085789925640683655.png",
+    "rank": "S"
+  },
+  "14154": {
+    "item_id": 14154,
+    "name": "Frostfall Sickle",
+    "slug": "frostfall-sickle",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/05/06/8225136d9d3436f3b92211ac1a6635f7_4904353841212928551.png",
+    "rank": "S"
+  },
+  "14155": {
+    "item_id": 14155,
+    "name": "Sol Exuvia",
+    "slug": "sol-exuvia",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/06/16/cd295c7495bda6f3569e4123edb0b3ca_6601808833878136532.png",
+    "rank": "S"
+  },
+  "14156": {
+    "item_id": 14156,
+    "name": "Joyau Dore",
+    "slug": "joyau-dore",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/06/16/46300e97a90161a412f9e1fcd9dded33_5112513643100390394.png",
+    "rank": "S"
+  },
+  "14157": {
+    "item_id": 14157,
+    "name": "Chief Sidekick",
+    "slug": "chief-sidekick",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/07/07/541720efcb3a9c45272dbfeb5837961e_1442466901793895182.png",
+    "rank": "S"
+  },
+  "14158": {
+    "item_id": 14158,
+    "name": "Ode of Resurrected Wings",
+    "slug": "ode-of-resurrected-wings",
+    "icon_url": "",
+    "rank": "S"
+  },
+  "14159": {
+    "item_id": 14159,
+    "name": "Sigrid's W-Engine (Beta)",
+    "slug": "sigrid-s-w-engine-beta",
+    "icon_url": "",
+    "rank": "S"
+  }
+}

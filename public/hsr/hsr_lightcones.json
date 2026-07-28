@@ -1,0 +1,827 @@
+{
+  "20000": {
+    "name": "Arrows",
+    "icon_name": "20000.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20000.png"
+  },
+  "20001": {
+    "name": "Cornucopia",
+    "icon_name": "20001.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20001.png"
+  },
+  "20002": {
+    "name": "Collapsing Sky",
+    "icon_name": "20002.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20002.png"
+  },
+  "20003": {
+    "name": "Amber",
+    "icon_name": "20003.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20003.png"
+  },
+  "20004": {
+    "name": "Void",
+    "icon_name": "20004.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20004.png"
+  },
+  "20005": {
+    "name": "Chorus",
+    "icon_name": "20005.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20005.png"
+  },
+  "20006": {
+    "name": "Data Bank",
+    "icon_name": "20006.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20006.png"
+  },
+  "20007": {
+    "name": "Darting Arrow",
+    "icon_name": "20007.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20007.png"
+  },
+  "20008": {
+    "name": "Fine Fruit",
+    "icon_name": "20008.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20008.png"
+  },
+  "20009": {
+    "name": "Shattered Home",
+    "icon_name": "20009.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20009.png"
+  },
+  "20010": {
+    "name": "Defense",
+    "icon_name": "20010.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20010.png"
+  },
+  "20011": {
+    "name": "Loop",
+    "icon_name": "20011.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20011.png"
+  },
+  "20012": {
+    "name": "Meshing Cogs",
+    "icon_name": "20012.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20012.png"
+  },
+  "20013": {
+    "name": "Passkey",
+    "icon_name": "20013.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20013.png"
+  },
+  "20014": {
+    "name": "Adversarial",
+    "icon_name": "20014.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20014.png"
+  },
+  "20015": {
+    "name": "Multiplication",
+    "icon_name": "20015.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20015.png"
+  },
+  "20016": {
+    "name": "Mutual Demise",
+    "icon_name": "20016.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20016.png"
+  },
+  "20017": {
+    "name": "Pioneering",
+    "icon_name": "20017.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20017.png"
+  },
+  "20018": {
+    "name": "Hidden Shadow",
+    "icon_name": "20018.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20018.png"
+  },
+  "20019": {
+    "name": "Mediation",
+    "icon_name": "20019.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20019.png"
+  },
+  "20020": {
+    "name": "Sagacity",
+    "icon_name": "20020.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20020.png"
+  },
+  "20021": {
+    "name": "Shadowburn",
+    "icon_name": "20021.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20021.png"
+  },
+  "20022": {
+    "name": "Reminiscence",
+    "icon_name": "20022.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20022.png"
+  },
+  "20023": {
+    "name": "Sneering",
+    "icon_name": "20023.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20023.png"
+  },
+  "20024": {
+    "name": "Lingering Tear",
+    "icon_name": "20024.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/20024.png"
+  },
+  "21000": {
+    "name": "Post-Op Conversation",
+    "icon_name": "21000.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21000.png"
+  },
+  "21001": {
+    "name": "Good Night and Sleep Well",
+    "icon_name": "21001.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21001.png"
+  },
+  "21002": {
+    "name": "Day One of My New Life",
+    "icon_name": "21002.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21002.png"
+  },
+  "21003": {
+    "name": "Only Silence Remains",
+    "icon_name": "21003.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21003.png"
+  },
+  "21004": {
+    "name": "Memories of the Past",
+    "icon_name": "21004.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21004.png"
+  },
+  "21005": {
+    "name": "The Moles Welcome You",
+    "icon_name": "21005.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21005.png"
+  },
+  "21006": {
+    "name": "The Birth of the Self",
+    "icon_name": "21006.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21006.png"
+  },
+  "21007": {
+    "name": "Shared Feeling",
+    "icon_name": "21007.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21007.png"
+  },
+  "21008": {
+    "name": "Eyes of the Prey",
+    "icon_name": "21008.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21008.png"
+  },
+  "21009": {
+    "name": "Landau's Choice",
+    "icon_name": "21009.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21009.png"
+  },
+  "21010": {
+    "name": "Swordplay",
+    "icon_name": "21010.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21010.png"
+  },
+  "21011": {
+    "name": "Planetary Rendezvous",
+    "icon_name": "21011.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21011.png"
+  },
+  "21012": {
+    "name": "A Secret Vow",
+    "icon_name": "21012.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21012.png"
+  },
+  "21013": {
+    "name": "Make the World Clamor",
+    "icon_name": "21013.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21013.png"
+  },
+  "21014": {
+    "name": "Perfect Timing",
+    "icon_name": "21014.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21014.png"
+  },
+  "21015": {
+    "name": "Resolution Shines As Pearls of Sweat",
+    "icon_name": "21015.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21015.png"
+  },
+  "21016": {
+    "name": "Trend of the Universal Market",
+    "icon_name": "21016.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21016.png"
+  },
+  "21017": {
+    "name": "Subscribe for More!",
+    "icon_name": "21017.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21017.png"
+  },
+  "21018": {
+    "name": "Dance! Dance! Dance!",
+    "icon_name": "21018.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21018.png"
+  },
+  "21019": {
+    "name": "Under the Blue Sky",
+    "icon_name": "21019.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21019.png"
+  },
+  "21020": {
+    "name": "Geniuses' Repose",
+    "icon_name": "21020.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21020.png"
+  },
+  "21021": {
+    "name": "Quid Pro Quo",
+    "icon_name": "21021.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21021.png"
+  },
+  "21022": {
+    "name": "Fermata",
+    "icon_name": "21022.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21022.png"
+  },
+  "21023": {
+    "name": "We Are Wildfire",
+    "icon_name": "21023.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21023.png"
+  },
+  "21024": {
+    "name": "River Flows in Spring",
+    "icon_name": "21024.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21024.png"
+  },
+  "21025": {
+    "name": "Past and Future",
+    "icon_name": "21025.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21025.png"
+  },
+  "21026": {
+    "name": "Woof! Walk Time!",
+    "icon_name": "21026.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21026.png"
+  },
+  "21027": {
+    "name": "The Seriousness of Breakfast",
+    "icon_name": "21027.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21027.png"
+  },
+  "21028": {
+    "name": "Warmth Shortens Cold Nights",
+    "icon_name": "21028.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21028.png"
+  },
+  "21029": {
+    "name": "We Will Meet Again",
+    "icon_name": "21029.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21029.png"
+  },
+  "21030": {
+    "name": "This Is Me!",
+    "icon_name": "21030.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21030.png"
+  },
+  "21031": {
+    "name": "Return to Darkness",
+    "icon_name": "21031.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21031.png"
+  },
+  "21032": {
+    "name": "Carve the Moon, Weave the Clouds",
+    "icon_name": "21032.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21032.png"
+  },
+  "21033": {
+    "name": "Nowhere to Run",
+    "icon_name": "21033.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21033.png"
+  },
+  "21034": {
+    "name": "Today Is Another Peaceful Day",
+    "icon_name": "21034.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21034.png"
+  },
+  "21035": {
+    "name": "What Is Real?",
+    "icon_name": "21035.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21035.png"
+  },
+  "21036": {
+    "name": "Dreamville Adventure",
+    "icon_name": "21036.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21036.png"
+  },
+  "21037": {
+    "name": "Final Victor",
+    "icon_name": "21037.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21037.png"
+  },
+  "21038": {
+    "name": "Flames Afar",
+    "icon_name": "21038.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21038.png"
+  },
+  "21039": {
+    "name": "Destiny's Threads Forewoven",
+    "icon_name": "21039.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21039.png"
+  },
+  "21040": {
+    "name": "The Day The Cosmos Fell",
+    "icon_name": "21040.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21040.png"
+  },
+  "21041": {
+    "name": "It's Showtime",
+    "icon_name": "21041.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21041.png"
+  },
+  "21042": {
+    "name": "Indelible Promise",
+    "icon_name": "21042.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21042.png"
+  },
+  "21043": {
+    "name": "Concert for Two",
+    "icon_name": "21043.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21043.png"
+  },
+  "21044": {
+    "name": "Boundless Choreo",
+    "icon_name": "21044.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21044.png"
+  },
+  "21045": {
+    "name": "After the Charmony Fall",
+    "icon_name": "21045.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21045.png"
+  },
+  "21046": {
+    "name": "Poised to Bloom",
+    "icon_name": "21046.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21046.png"
+  },
+  "21047": {
+    "name": "Shadowed by Night",
+    "icon_name": "21047.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21047.png"
+  },
+  "21048": {
+    "name": "Dream's Montage",
+    "icon_name": "21048.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21048.png"
+  },
+  "21050": {
+    "name": "Victory In a Blink",
+    "icon_name": "21050.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21050.png"
+  },
+  "21051": {
+    "name": "Geniuses' Greetings",
+    "icon_name": "21051.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21051.png"
+  },
+  "21052": {
+    "name": "Sweat Now, Cry Less",
+    "icon_name": "21052.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21052.png"
+  },
+  "21053": {
+    "name": "Journey, Forever Peaceful",
+    "icon_name": "21053.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21053.png"
+  },
+  "21054": {
+    "name": "The Story's Next Page",
+    "icon_name": "21054.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21054.png"
+  },
+  "21055": {
+    "name": "Unto Tomorrow's Morrow",
+    "icon_name": "21055.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21055.png"
+  },
+  "21056": {
+    "name": "In Pursuit of the Wind",
+    "icon_name": "21056.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21056.png"
+  },
+  "21057": {
+    "name": "The Flower Remembers",
+    "icon_name": "21057.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21057.png"
+  },
+  "21058": {
+    "name": "A Trail of Bygone Blood",
+    "icon_name": "21058.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21058.png"
+  },
+  "21060": {
+    "name": "A Dream Scented in Wheat",
+    "icon_name": "21060.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21060.png"
+  },
+  "21061": {
+    "name": "Holiday Thermae Escapade",
+    "icon_name": "21061.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21061.png"
+  },
+  "21062": {
+    "name": "See You at the End",
+    "icon_name": "21062.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21062.png"
+  },
+  "21064": {
+    "name": "Mushy Shroomy's Adventures",
+    "icon_name": "21064.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21064.png"
+  },
+  "21065": {
+    "name": "Today's Good Luck",
+    "icon_name": "21065.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/21065.png"
+  },
+  "22000": {
+    "name": "Before the Tutorial Mission Starts",
+    "icon_name": "22000.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/22000.png"
+  },
+  "22001": {
+    "name": "Hey, Over Here",
+    "icon_name": "22001.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/22001.png"
+  },
+  "22002": {
+    "name": "For Tomorrow's Journey",
+    "icon_name": "22002.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/22002.png"
+  },
+  "22003": {
+    "name": "Ninja Record: Sound Hunt",
+    "icon_name": "22003.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/22003.png"
+  },
+  "22004": {
+    "name": "The Great Cosmic Enterprise",
+    "icon_name": "22004.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/22004.png"
+  },
+  "22005": {
+    "name": "The Forever Victual",
+    "icon_name": "22005.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/22005.png"
+  },
+  "22006": {
+    "name": "Fly Into a Pink Tomorrow",
+    "icon_name": "22006.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/22006.png"
+  },
+  "22007": {
+    "name": "Tomorrow, Together",
+    "icon_name": "22007.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/22007.png"
+  },
+  "23000": {
+    "name": "Night on the Milky Way",
+    "icon_name": "23000.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23000.png"
+  },
+  "23001": {
+    "name": "In the Night",
+    "icon_name": "23001.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23001.png"
+  },
+  "23002": {
+    "name": "Something Irreplaceable",
+    "icon_name": "23002.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23002.png"
+  },
+  "23003": {
+    "name": "But the Battle Isn't Over",
+    "icon_name": "23003.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23003.png"
+  },
+  "23004": {
+    "name": "In the Name of the World",
+    "icon_name": "23004.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23004.png"
+  },
+  "23005": {
+    "name": "Moment of Victory",
+    "icon_name": "23005.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23005.png"
+  },
+  "23006": {
+    "name": "Patience Is All You Need",
+    "icon_name": "23006.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23006.png"
+  },
+  "23007": {
+    "name": "Incessant Rain",
+    "icon_name": "23007.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23007.png"
+  },
+  "23008": {
+    "name": "Echoes of the Coffin",
+    "icon_name": "23008.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23008.png"
+  },
+  "23009": {
+    "name": "The Unreachable Side",
+    "icon_name": "23009.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23009.png"
+  },
+  "23010": {
+    "name": "Before Dawn",
+    "icon_name": "23010.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23010.png"
+  },
+  "23011": {
+    "name": "She Already Shut Her Eyes",
+    "icon_name": "23011.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23011.png"
+  },
+  "23012": {
+    "name": "Sleep Like the Dead",
+    "icon_name": "23012.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23012.png"
+  },
+  "23013": {
+    "name": "Time Waits for No One",
+    "icon_name": "23013.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23013.png"
+  },
+  "23014": {
+    "name": "I Shall Be My Own Sword",
+    "icon_name": "23014.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23014.png"
+  },
+  "23015": {
+    "name": "Brighter Than the Sun",
+    "icon_name": "23015.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23015.png"
+  },
+  "23016": {
+    "name": "Worrisome, Blissful",
+    "icon_name": "23016.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23016.png"
+  },
+  "23017": {
+    "name": "Night of Fright",
+    "icon_name": "23017.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23017.png"
+  },
+  "23018": {
+    "name": "An Instant Before A Gaze",
+    "icon_name": "23018.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23018.png"
+  },
+  "23019": {
+    "name": "Past Self in Mirror",
+    "icon_name": "23019.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23019.png"
+  },
+  "23020": {
+    "name": "Baptism of Pure Thought",
+    "icon_name": "23020.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23020.png"
+  },
+  "23021": {
+    "name": "Earthly Escapade",
+    "icon_name": "23021.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23021.png"
+  },
+  "23022": {
+    "name": "Reforged Remembrance",
+    "icon_name": "23022.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23022.png"
+  },
+  "23023": {
+    "name": "Inherently Unjust Destiny",
+    "icon_name": "23023.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23023.png"
+  },
+  "23024": {
+    "name": "Along the Passing Shore",
+    "icon_name": "23024.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23024.png"
+  },
+  "23025": {
+    "name": "Whereabouts Should Dreams Rest",
+    "icon_name": "23025.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23025.png"
+  },
+  "23026": {
+    "name": "Flowing Nightglow",
+    "icon_name": "23026.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23026.png"
+  },
+  "23027": {
+    "name": "Sailing Towards a Second Life",
+    "icon_name": "23027.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23027.png"
+  },
+  "23028": {
+    "name": "Yet Hope Is Priceless",
+    "icon_name": "23028.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23028.png"
+  },
+  "23029": {
+    "name": "Those Many Springs",
+    "icon_name": "23029.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23029.png"
+  },
+  "23030": {
+    "name": "Dance at Sunset",
+    "icon_name": "23030.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23030.png"
+  },
+  "23031": {
+    "name": "I Venture Forth to Hunt",
+    "icon_name": "23031.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23031.png"
+  },
+  "23032": {
+    "name": "Scent Alone Stays True",
+    "icon_name": "23032.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23032.png"
+  },
+  "23033": {
+    "name": "Ninjutsu Inscription: Dazzling Evilbreaker",
+    "icon_name": "23033.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23033.png"
+  },
+  "23034": {
+    "name": "A Grounded Ascent",
+    "icon_name": "23034.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23034.png"
+  },
+  "23035": {
+    "name": "Long Road Leads Home",
+    "icon_name": "23035.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23035.png"
+  },
+  "23036": {
+    "name": "Time Woven Into Gold",
+    "icon_name": "23036.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23036.png"
+  },
+  "23037": {
+    "name": "Into the Unreachable Veil",
+    "icon_name": "23037.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23037.png"
+  },
+  "23038": {
+    "name": "If Time Were a Flower",
+    "icon_name": "23038.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23038.png"
+  },
+  "23039": {
+    "name": "Flame of Blood, Blaze My Path",
+    "icon_name": "23039.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23039.png"
+  },
+  "23040": {
+    "name": "Make Farewells More Beautiful",
+    "icon_name": "23040.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23040.png"
+  },
+  "23041": {
+    "name": "Life Should Be Cast to Flames",
+    "icon_name": "23041.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23041.png"
+  },
+  "23042": {
+    "name": "Long May Rainbows Adorn the Sky",
+    "icon_name": "23042.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23042.png"
+  },
+  "23043": {
+    "name": "Lies Dance on the Breeze",
+    "icon_name": "23043.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23043.png"
+  },
+  "23044": {
+    "name": "Thus Burns the Dawn",
+    "icon_name": "23044.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23044.png"
+  },
+  "23045": {
+    "name": "A Thankless Coronation",
+    "icon_name": "23045.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23045.png"
+  },
+  "23046": {
+    "name": "The Hell Where Ideals Burn",
+    "icon_name": "23046.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23046.png"
+  },
+  "23047": {
+    "name": "Why Does the Ocean Sing",
+    "icon_name": "23047.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23047.png"
+  },
+  "23048": {
+    "name": "Epoch Etched in Golden Blood",
+    "icon_name": "23048.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23048.png"
+  },
+  "23049": {
+    "name": "To Evernight's Stars",
+    "icon_name": "23049.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23049.png"
+  },
+  "23050": {
+    "name": "Never Forget Her Flame",
+    "icon_name": "23050.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23050.png"
+  },
+  "23051": {
+    "name": "Though Worlds Apart",
+    "icon_name": "23051.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23051.png"
+  },
+  "23052": {
+    "name": "This Love, Forever",
+    "icon_name": "23052.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23052.png"
+  },
+  "23053": {
+    "name": "Dazzled by a Flowery World",
+    "icon_name": "23053.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23053.png"
+  },
+  "23054": {
+    "name": "When She Decided to See",
+    "icon_name": "23054.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23054.png"
+  },
+  "23056": {
+    "name": "The Finale of a Lie",
+    "icon_name": "23056.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23056.png"
+  },
+  "23057": {
+    "name": "Welcome to the Cosmic City",
+    "icon_name": "23057.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23057.png"
+  },
+  "23058": {
+    "name": "Until the Flowers Bloom Again",
+    "icon_name": "23058.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23058.png"
+  },
+  "23059": {
+    "name": "Reforged in Hellfire",
+    "icon_name": "23059.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23059.png"
+  },
+  "23060": {
+    "name": "A Star That Lights the Night",
+    "icon_name": "23060.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23060.png"
+  },
+  "23061": {
+    "name": "Flickering Stars",
+    "icon_name": "23061.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23061.png"
+  },
+  "23062": {
+    "name": "I Am As You Behold",
+    "icon_name": "23062.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/23062.png"
+  },
+  "24000": {
+    "name": "On the Fall of an Aeon",
+    "icon_name": "24000.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/24000.png"
+  },
+  "24001": {
+    "name": "Cruising in the Stellar Sea",
+    "icon_name": "24001.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/24001.png"
+  },
+  "24002": {
+    "name": "Texture of Memories",
+    "icon_name": "24002.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/24002.png"
+  },
+  "24003": {
+    "name": "Solitary Healing",
+    "icon_name": "24003.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/24003.png"
+  },
+  "24004": {
+    "name": "Eternal Calculus",
+    "icon_name": "24004.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/24004.png"
+  },
+  "24005": {
+    "name": "Memory's Curtain Never Falls",
+    "icon_name": "24005.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/24005.png"
+  },
+  "24006": {
+    "name": "Elation Brimming With Blessings",
+    "icon_name": "24006.png",
+    "icon_url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/master/icon/light_cone/24006.png"
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "2": {
+    "name_jp": "アンビー・デマラ",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/43aeb29d176e10c9713b3b9b6ac0dd3a_2384682618213467101.png",
+    "wiki_id": "2",
+    "rank": "A"
+  },
+  "19": {
+    "name_jp": "ビリー・キッド",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/3db23765159cef54aecb564a310aa214_5875819227834946917.png",
+    "wiki_id": "19",
+    "rank": "A"
+  },
+  "20": {
+    "name_jp": "ニコ・デマラ",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/23/3815b87d0e526b12127e69f5baed3fa7_2071488341033625974.png",
+    "wiki_id": "20",
+    "rank": "A"
+  },
+  "21": {
+    "name_jp": "猫宮又奈",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/4f6da69b0ac332789cfa8f1a3db17e77_6866504406372735530.png",
+    "wiki_id": "21",
+    "rank": "S"
+  },
+  "22": {
+    "name_jp": "「11号」",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/16/e0d2c585da7186984e2a1e66714131f8_348745644031971587.png",
+    "wiki_id": "22",
+    "rank": "S"
+  },
+  "23": {
+    "name_jp": "カリン・ウィクス",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/16/6f351122be7781f8cd6f21722dd13661_2661769272105172713.png",
+    "wiki_id": "23",
+    "rank": "A"
+  },
+  "24": {
+    "name_jp": "アンドー・イワノフ",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/17/4ad598ef6760d23196d488cba5c1af8a_5032015665623889570.png",
+    "wiki_id": "24",
+    "rank": "A"
+  },
+  "25": {
+    "name_jp": "ベン・ビガー",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/17/96c8a05b61d8a7a3d5c4ba5bfb76fd58_860957641937035940.png",
+    "wiki_id": "25",
+    "rank": "A"
+  },
+  "26": {
+    "name_jp": "クレタ・ベロボーグ",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/f2dcd3f680b1e3873406fa4132f26178_4686138976346855105.png",
+    "wiki_id": "26",
+    "rank": "S"
+  },
+  "27": {
+    "name_jp": "グレース・ハワード",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/b25a8a6174b97cc4c559029aafbe4a22_5090726243759751843.png",
+    "wiki_id": "27",
+    "rank": "S"
+  },
+  "28": {
+    "name_jp": "フォン・ライカン",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/127f1076f431a56918ba080bd7084c85_3329381659090289799.png",
+    "wiki_id": "28",
+    "rank": "S"
+  },
+  "29": {
+    "name_jp": "エレン・ジョー",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/71b99a24f7864beec31370cf07cbcafb_7099117086480817211.png",
+    "wiki_id": "29",
+    "rank": "S"
+  },
+  "30": {
+    "name_jp": "アレクサンドリナ・セバスチャン",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/af07b5681d49fb22a818dbf24536f347_3882748344546395498.png",
+    "wiki_id": "30",
+    "rank": "S"
+  },
+  "31": {
+    "name_jp": "朱鳶",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/28/391008a843e6a6e35b134b54dd498049_1301244787212807256.png",
+    "wiki_id": "31",
+    "rank": "S"
+  },
+  "89": {
+    "name_jp": "蒼角",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/23/f7e89a3278d04fc252011df8b9230b7b_1724004390987084817.png",
+    "wiki_id": "89",
+    "rank": "A"
+  },
+  "125": {
+    "name_jp": "ルシアーナ・デ・モンテフィーノ",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/02/0005cb04259b2f2101e5aeac52033299_4730938854595310447.png",
+    "wiki_id": "125",
+    "rank": "A"
+  },
+  "126": {
+    "name_jp": "パイパー・ウィール",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/02/4a3910f9aad150df3aed53c5de28768e_8578434738157565712.png",
+    "wiki_id": "126",
+    "rank": "A"
+  },
+  "350": {
+    "name_jp": "青衣",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/08/12/ed5601b7cde9bda222181258a3a312d4_4632136586354055308.png",
+    "wiki_id": "350",
+    "rank": "S"
+  },
+  "368": {
+    "name_jp": "ジェーン・ドゥ",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/08/26/87fcb83576a57e1aae31dfa0d6445b68_3499070425918560638.png",
+    "wiki_id": "368",
+    "rank": "S"
+  },
+  "369": {
+    "name_jp": "セス・ローウェル",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/08/26/b2f8135275830a304ab2e92b2543d95c_927816365385918993.png",
+    "wiki_id": "369",
+    "rank": "A"
+  },
+  "381": {
+    "name_jp": "キング・シーザー",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/05/6972b0d890536070ddb28b1af7b671ec_280027749603350505.png",
+    "wiki_id": "381",
+    "rank": "S"
+  },
+  "382": {
+    "name_jp": "バーニス・ホワイト",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/10/14/299a89bfbb926df9a396ad76db78f6f9_5120076859000576241.png",
+    "wiki_id": "382",
+    "rank": "S"
+  },
+  "529": {
+    "name_jp": "月城柳",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/10/25/3dd34f678f97c8a2101f0d3ba0710715_7070642981073250787.png",
+    "wiki_id": "529",
+    "rank": "S"
+  },
+  "530": {
+    "name_jp": "ライト",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/10/25/62f6ec8192859deb907183ee5af41fbc_7203727196610268894.png",
+    "wiki_id": "530",
+    "rank": "S"
+  },
+  "537": {
+    "name_jp": "星見雅",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/05/7cf7a63a5f2c358f41447e8625696179_5728613537777614486.png",
+    "wiki_id": "537",
+    "rank": "S"
+  },
+  "538": {
+    "name_jp": "浅羽悠真",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/05/0fbcba9e8701eca206e255e7c4ebc940_2852126057511453091.png",
+    "wiki_id": "538",
+    "rank": "S"
+  },
+  "588": {
+    "name_jp": "アストラ・ヤオ",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/01/21/96b569066923ada5741838ab3a62a9db_6757234780440279769.png",
+    "wiki_id": "588",
+    "rank": "S"
+  },
+  "589": {
+    "name_jp": "イヴリン・シェヴァリエ",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/02/11/2b3105799ae8936a1a2e05a8f9799c7c_1238822250851367926.png",
+    "wiki_id": "589",
+    "rank": "S"
+  },
+  "618": {
+    "name_jp": "0号・アンビー",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/03/11/919494a3711fe2eae1a74d8b8427ee5a_596255076640499455.png",
+    "wiki_id": "618",
+    "rank": "S"
+  },
+  "619": {
+    "name_jp": "プルクラ・フェリーニ",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/03/11/76d1e64c6ea76ffb7aabfd090c30dba0_3692781990695818269.png",
+    "wiki_id": "619",
+    "rank": "A"
+  },
+  "620": {
+    "name_jp": "「トリガー」",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/03/31/26f1e63602588117c4d0eaabb604d2c1_8323019581904676813.png",
+    "wiki_id": "620",
+    "rank": "S"
+  },
+  "626": {
+    "name_jp": "ビビアン・バンシー",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/04/22/725b53a868786abab00f01ef9a174c88_7922982168600779570.png",
+    "wiki_id": "626",
+    "rank": "S"
+  },
+  "707": {
+    "name_jp": "ヒューゴ・ヴラド",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/05/14/59155606/e452bdd54ff290d277cc1988ed2d6e17_8687046143582199946.png",
+    "wiki_id": "707",
+    "rank": "S"
+  },
+  "750": {
+    "name_jp": "橘福福",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/06/09/59155606/5b0c653a0b1c96241c86da6d3bc8f799_9212422854715555802.png",
+    "wiki_id": "750",
+    "rank": "S"
+  },
+  "751": {
+    "name_jp": "潘引壺",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/06/04/de8464640c050cc3abbb90a410e37515_7863788274429390034.png",
+    "wiki_id": "751",
+    "rank": "A"
+  },
+  "752": {
+    "name_jp": "儀玄",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/06/04/e6eceb709a7e39e22c09c94ec190fb42_3993513732551662280.png",
+    "wiki_id": "752",
+    "rank": "S"
+  },
+  "837": {
+    "name_jp": "浮波柚葉",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/08/31/59155606/7a65124559c82ec0fea6dc7747537f44_4202662790721761167.png",
+    "wiki_id": "837",
+    "rank": "S"
+  },
+  "838": {
+    "name_jp": "アリス・タイムフィールド",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/08/04/9dffbc67a9946156827b07176823aa15_5696342392442957480.png",
+    "wiki_id": "838",
+    "rank": "S"
+  },
+  "901": {
+    "name_jp": "「シード」",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/07/26/59155606/47a51ea9f05bd537d1b753de532c38aa_3867385733272981618.png",
+    "wiki_id": "901",
+    "rank": "S"
+  },
+  "902": {
+    "name_jp": "オルペウス・マグヌッソン＆「鬼火」",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/07/28/59155606/7473503f9af622d85b799c76838b9c4b_3273353374085876873.png",
+    "wiki_id": "902",
+    "rank": "S"
+  },
+  "907": {
+    "name_jp": "リュシア・エロウェン",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/09/29/59155606/52a136e457486551ff1c13ca87e70748_1519978623157083107.png",
+    "wiki_id": "907",
+    "rank": "S"
+  },
+  "908": {
+    "name_jp": "狛野真斗",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/08/25/59155606/4a5806a43ea0eeeaab0379a9f66cc3fe_5095587983088246552.png",
+    "wiki_id": "908",
+    "rank": "A"
+  },
+  "909": {
+    "name_jp": "イドリー・マーフィー",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/08/25/59155606/6e12b5f5f69717b69173aaeb3991cc27_2975548642279878589.png",
+    "wiki_id": "909",
+    "rank": "S"
+  },
+  "932": {
+    "name_jp": "ダイアリン",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2026/02/22/203462023/21ee54598e5ea637ef9e8e5eaf348a3b_3852045571428375348.png",
+    "wiki_id": "932",
+    "rank": "S"
+  },
+  "934": {
+    "name_jp": "盤岳",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/10/12/59155606/79249c6bb979ef74183b364665e2c9f2_2199926498175040459.png",
+    "wiki_id": "934",
+    "rank": "S"
+  },
+  "960": {
+    "name_jp": "照",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/11/15/474051746/1340550c86a14e14274ebded5cf4ba3b_628566377613752018.png",
+    "wiki_id": "960",
+    "rank": "S"
+  },
+  "961": {
+    "name_jp": "葉瞬光",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/11/19/474051746/567b6d9975cec0cb335c09ead8e7720a_1899907792152996547.png",
+    "wiki_id": "961",
+    "rank": "S"
+  },
+  "995": {
+    "name_jp": "千夏",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2026/01/02/59155606/fca35fd54bd8fe6704d24f46edb11f4c_8111293177669399581.png",
+    "wiki_id": "995",
+    "rank": "S"
+  },
+  "998": {
+    "name_jp": "アリア",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2026/01/02/59155606/0cbe8be1e94acd93a0acd7e17ccaa463_8132176171247498252.png",
+    "wiki_id": "998",
+    "rank": "S"
+  },
+  "1038": {
+    "name_jp": "南宮羽",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2026/02/13/203462023/d56138a233f0ef0d82fd32131b690560_928685649604378240.png",
+    "wiki_id": "1038",
+    "rank": "S"
+  },
+  "1039": {
+    "name_jp": "シーシィア",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2026/02/13/16427676/418ab5f4aacd1e4d2ee2ae006e634b82_5406578101117348664.png",
+    "wiki_id": "1039",
+    "rank": "S"
+  },
+  "1072": {
+    "name_jp": "プロメイア",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/05/06/407610f2b368894b3c803bc399dcac3e_1869311111116973024.png",
+    "wiki_id": "1072",
+    "rank": "S"
+  },
+  "1073": {
+    "name_jp": "スターライト・ビリー・キッド",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/05/25/66bde33390ceb352ccdba3182eb78f2c_2857724575942802582.png",
+    "wiki_id": "1073",
+    "rank": "S"
+  },
+  "1082": {
+    "name_jp": "ピュロイス",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/06/16/69723b34e8b9cf4f5b7b98e6dff8d202_2315549761560555071.png",
+    "wiki_id": "1082",
+    "rank": "S"
+  },
+  "1084": {
+    "name_jp": "ヴェリナ・エガード",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/06/16/d1c0912271a744a242ba3836e3ad7515_6009918991675379943.png",
+    "wiki_id": "1084",
+    "rank": "S"
+  },
+  "1085": {
+    "name_jp": "ノルムー・ホローウェル",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/07/07/77a584948e350cb38bed686895a934d8_1035892473153194484.png",
+    "wiki_id": "1085",
+    "rank": "S"
+  },
+  "1112": {
+    "name_jp": "レミエール・ダン",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2026/06/22/59155606/0d0cd5b5fc60173dc78d2e4002e3d2b5_7337129371931435940.png",
+    "wiki_id": "1112",
+    "rank": "Unknown"
+  },
+  "1113": {
+    "name_jp": "シグリッド・ドゥ・ラズール",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2026/06/22/59155606/eebf970fae3bbfe7e1700609300f80c5_398418484876747909.png",
+    "wiki_id": "1113",
+    "rank": "Unknown"
+  }
+}

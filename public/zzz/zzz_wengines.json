@@ -1,0 +1,560 @@
+{
+  "3": {
+    "name_jp": "デマラ式電池Ⅱ型",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/16/59155606/28100408291b1bddadd6c416dcc2e5e4_8939534631315664139.png",
+    "wiki_id": "3",
+    "rank": "A"
+  },
+  "45": {
+    "name_jp": "「月相」-望",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/16/59155606/62251019ac4ef58fd4c279f83524cd84_8673570095201293992.png",
+    "wiki_id": "45",
+    "rank": "B"
+  },
+  "46": {
+    "name_jp": "「月相」-晦",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/941a1dbc1f0f5ea154f89a977688f56f_1156398786124148806.png",
+    "wiki_id": "46",
+    "rank": "B"
+  },
+  "47": {
+    "name_jp": "「月相」-朔",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/02ec27514360d65720b1b8fb011fdd65_3377460363300660205.png",
+    "wiki_id": "47",
+    "rank": "B"
+  },
+  "48": {
+    "name_jp": "「残響」-Ⅰ型",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/253bf13e8132045687243a7d28afa23f_4175164654114055939.png",
+    "wiki_id": "48",
+    "rank": "B"
+  },
+  "49": {
+    "name_jp": "「残響」-Ⅱ型",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/a7cf76336e9afdd9d38f9d652d516d94_570435698770315695.png",
+    "wiki_id": "49",
+    "rank": "B"
+  },
+  "50": {
+    "name_jp": "「残響」-Ⅲ型",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/059a75f3681deb2e9c78cc9835dc82b8_4337695145901130493.png",
+    "wiki_id": "50",
+    "rank": "B"
+  },
+  "51": {
+    "name_jp": "「激流」-銃型",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/678e013c400c296a78738177b6a1a5a8_887465183471254524.png",
+    "wiki_id": "51",
+    "rank": "B"
+  },
+  "52": {
+    "name_jp": "「激流」-矢型",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/95b56323f1157a73903b58b0d0618d82_1108845874751914790.png",
+    "wiki_id": "52",
+    "rank": "B"
+  },
+  "53": {
+    "name_jp": "「激流」-斧型",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/89d2801f10986bbe99af9a42e4042810_4712168767714525997.png",
+    "wiki_id": "53",
+    "rank": "B"
+  },
+  "54": {
+    "name_jp": "「磁気嵐」-壱式",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/21d0c3aa5c78d4b856edbb9d17159078_8544476212990273101.png",
+    "wiki_id": "54",
+    "rank": "B"
+  },
+  "55": {
+    "name_jp": "「磁気嵐」-弐式",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/a18b73a46dd4d1a1ac44b316b6ad03c9_3990962564188903387.png",
+    "wiki_id": "55",
+    "rank": "B"
+  },
+  "56": {
+    "name_jp": "「磁気嵐」-参式",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/c9c75ae6e211e91707bed1335b6c0091_9191335447820120341.png",
+    "wiki_id": "56",
+    "rank": "B"
+  },
+  "57": {
+    "name_jp": "「恒等式」-本格",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/b2518a5c40e0afebe91b2095726ad09b_7263349847236751126.png",
+    "wiki_id": "57",
+    "rank": "B"
+  },
+  "58": {
+    "name_jp": "「恒等式」-変格",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/ab8ffe09eb3a17509712aeeb08c81907_1283971319884420897.png",
+    "wiki_id": "58",
+    "rank": "B"
+  },
+  "59": {
+    "name_jp": "ストリートスター",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/01d76f16b402716d76700acc35626517_1680660751631434746.png",
+    "wiki_id": "59",
+    "rank": "A"
+  },
+  "60": {
+    "name_jp": "歳月の薄片",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/a945c3ba4d4b10a5be94ce9350f81268_562832290300471071.png",
+    "wiki_id": "60",
+    "rank": "A"
+  },
+  "61": {
+    "name_jp": "密林の食いしん坊",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/859457119870b43e2e323651436b82e2_9062790354295784915.png",
+    "wiki_id": "61",
+    "rank": "A"
+  },
+  "62": {
+    "name_jp": "スターライトエンジン",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/4c71730c100ac556417529a8e4598d36_495802607117684167.png",
+    "wiki_id": "62",
+    "rank": "A"
+  },
+  "63": {
+    "name_jp": "まな板の鯉",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/7928a573debd995598d48b0f3d5cb88b_1422676556429326658.png",
+    "wiki_id": "63",
+    "rank": "A"
+  },
+  "64": {
+    "name_jp": "貴重な石化コア",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/c97a046a5728d2e5eb420a1ca63e99d2_5858075999154042711.png",
+    "wiki_id": "64",
+    "rank": "A"
+  },
+  "65": {
+    "name_jp": "正規版変身装置",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/09d6a527710604c64683c74ce0185cf9_4654790522065115078.png",
+    "wiki_id": "65",
+    "rank": "A"
+  },
+  "66": {
+    "name_jp": "双生の涙",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/198cf01b8c620882b72deab5a23c7cdd_3427742370877119076.png",
+    "wiki_id": "66",
+    "rank": "A"
+  },
+  "67": {
+    "name_jp": "電撃リップグロス",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/d40322e5c28b18493b8893d34f0fc9ef_6655163887717015479.png",
+    "wiki_id": "67",
+    "rank": "A"
+  },
+  "68": {
+    "name_jp": "ラビットチャージャー",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/a750117496e57acbaa3dc4dd09f4101d_7482375033344127713.png",
+    "wiki_id": "68",
+    "rank": "A"
+  },
+  "69": {
+    "name_jp": "ホットスプリング",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/4910d45c5519a6e8c08b440105af486b_2065464364971330070.png",
+    "wiki_id": "69",
+    "rank": "A"
+  },
+  "71": {
+    "name_jp": "ザ・ボールト",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/1e501eb6d186edb508944520bcca4aad_2038870684837184697.png",
+    "wiki_id": "71",
+    "rank": "A"
+  },
+  "72": {
+    "name_jp": "ハウスキーパー",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/c5e3277e051b5ad10ec568c8ed62e472_3603367946966748963.png",
+    "wiki_id": "72",
+    "rank": "A"
+  },
+  "73": {
+    "name_jp": "なんちゃってスターライトエンジン",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/7a2092bf3e5d51bd8f0d425f21b4a5a2_4827346153083611346.png",
+    "wiki_id": "73",
+    "rank": "A"
+  },
+  "74": {
+    "name_jp": "ドリルリグ-レッドシャフト",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/51cfdbcf65d8bca2826acec5ba5bd34c_8674847623930692474.png",
+    "wiki_id": "74",
+    "rank": "A"
+  },
+  "75": {
+    "name_jp": "ビガー・シリンダー",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/3cc594d80af5a1661a0aae16298518e9_6406642665548105762.png",
+    "wiki_id": "75",
+    "rank": "A"
+  },
+  "76": {
+    "name_jp": "恥じらう悪面",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/9fed705aa18fdde455ded51e4f907096_6619749083742542092.png",
+    "wiki_id": "76",
+    "rank": "A"
+  },
+  "77": {
+    "name_jp": "キャノンローラー",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/af4b2e547d6735da28ae46769b9a832e_7627836278889964936.png",
+    "wiki_id": "77",
+    "rank": "A"
+  },
+  "78": {
+    "name_jp": "ゲームボール",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/ebbceb9c733b032cc66fec9bab5b39cb_8604484069513406045.png",
+    "wiki_id": "78",
+    "rank": "A"
+  },
+  "79": {
+    "name_jp": "シックスシューター",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/864547e11bff3e3c0a2eb77904e1a506_891269497984208258.png",
+    "wiki_id": "79",
+    "rank": "A"
+  },
+  "80": {
+    "name_jp": "鋼の肉球",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/fbf66943a7dea171bbe1876abec75ab3_2674764882864183966.png",
+    "wiki_id": "80",
+    "rank": "S"
+  },
+  "81": {
+    "name_jp": "ブリムストーン",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/2cd3aa09c2f818eadf4ce632c5f421fd_1015413564355407020.png",
+    "wiki_id": "81",
+    "rank": "S"
+  },
+  "82": {
+    "name_jp": "燃獄ギア",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/b7b68f095152ab344e48b988f9906250_6383938685292169082.png",
+    "wiki_id": "82",
+    "rank": "S"
+  },
+  "83": {
+    "name_jp": "拘縛されし者",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/e635273d517c98e9724a7a11870c6fbb_5318007156738769807.png",
+    "wiki_id": "83",
+    "rank": "S"
+  },
+  "84": {
+    "name_jp": "複合コンパイラ",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/f870509a9a2979efe912c9d7785092b0_469868095369001461.png",
+    "wiki_id": "84",
+    "rank": "S"
+  },
+  "85": {
+    "name_jp": "ディープシー・ビジター",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/b029d3bf8295e848bf4bb3cee7bee635_8613743280973482624.png",
+    "wiki_id": "85",
+    "rank": "S"
+  },
+  "86": {
+    "name_jp": "啜り泣くゆりかご",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/ef3bdba96582ab932e00f488d9d84241_7692518403739446202.png",
+    "wiki_id": "86",
+    "rank": "S"
+  },
+  "87": {
+    "name_jp": "サプレッサーVI型",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/03/31/59155606/563b6c4cc5443b1e0e37e8ee1e70e669_765172669951434277.png",
+    "wiki_id": "87",
+    "rank": "S"
+  },
+  "273": {
+    "name_jp": "喧嘩腰のボンバルダム",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/6de89d4ff56df24f73d020c6f056376a_4283143925808708952.png",
+    "wiki_id": "273",
+    "rank": "A"
+  },
+  "274": {
+    "name_jp": "グロウル・マイ・カー",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/59d21937c3fed5bbd95981b7348905f2_3822173513323375669.png",
+    "wiki_id": "274",
+    "rank": "A"
+  },
+  "354": {
+    "name_jp": "金メッキの花信",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/5b63bca946b316faea7131615d2fcb6c_7132563230648847361.png",
+    "wiki_id": "354",
+    "rank": "A"
+  },
+  "355": {
+    "name_jp": "玉壺青氷",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/6758b3dad33fa7e9f42bd512ee306199_528260113735123123.png",
+    "wiki_id": "355",
+    "rank": "S"
+  },
+  "377": {
+    "name_jp": "磨き抜かれた切っ先",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/15a02c67d9bcb3ba4b5727280adfb8fe_7968118421892873582.png",
+    "wiki_id": "377",
+    "rank": "S"
+  },
+  "378": {
+    "name_jp": "秩序の守り手・特化型",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/0e84a53f3f31d0611aba264f2138b468_701891787772535538.png",
+    "wiki_id": "378",
+    "rank": "A"
+  },
+  "389": {
+    "name_jp": "猛進するキバ",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/31b6008c9ea5f6a1f195c64bba5440a0_7807923512987285251.png",
+    "wiki_id": "389",
+    "rank": "S"
+  },
+  "525": {
+    "name_jp": "バーニング・シェイカー",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/a6467e15e97985d628b20eed5c1cdc55_3577512956797888865.png",
+    "wiki_id": "525",
+    "rank": "S"
+  },
+  "531": {
+    "name_jp": "刻流の賢者",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/17/59155606/7ba42d92bd7e5b61fce77a99254aaa1d_1045116850800338302.png",
+    "wiki_id": "531",
+    "rank": "S"
+  },
+  "534": {
+    "name_jp": "炎心の桂冠",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/01/24/59155606/85b7109dcfe6cdd717365fb541dbc4f3_175455885003423133.png",
+    "wiki_id": "534",
+    "rank": "S"
+  },
+  "539": {
+    "name_jp": "強音デザイア",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/17/39a78589dda1ac70be47ef2202846348_3073969051264582602.png",
+    "wiki_id": "539",
+    "rank": "A"
+  },
+  "540": {
+    "name_jp": "あられ落つ星殿",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/17/3ba720942094686d01e37dd510b7b029_6895150963174798766.png",
+    "wiki_id": "540",
+    "rank": "S"
+  },
+  "541": {
+    "name_jp": "残心の青籠",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/17/9861761e3b5e1ff05158695f68ce6320_132359921821463404.png",
+    "wiki_id": "541",
+    "rank": "S"
+  },
+  "590": {
+    "name_jp": "優美のヴァニティ",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/01/21/fe22f5f4612f362a6a28b0da2194555b_1853277245761359592.png",
+    "wiki_id": "590",
+    "rank": "S"
+  },
+  "591": {
+    "name_jp": "心弦のノクターン",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/02/11/4f3ce3559526fdfea55f000843d6b787_3222446032412264157.png",
+    "wiki_id": "591",
+    "rank": "S"
+  },
+  "621": {
+    "name_jp": "純然たる犠牲",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/03/11/ed06c4561c09feb19323207a4cfcf5f3_4127693961259843580.png",
+    "wiki_id": "621",
+    "rank": "S"
+  },
+  "622": {
+    "name_jp": "ペーパーカッター",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/03/11/0d71e9944fc8b115afb13c1b04a66f98_1127682879979478466.png",
+    "wiki_id": "622",
+    "rank": "A"
+  },
+  "701": {
+    "name_jp": "奪魂の瞑目",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/03/31/42b0420521c0c59c4cb2dedc6e9c3e64_3256610825821672154.png",
+    "wiki_id": "701",
+    "rank": "S"
+  },
+  "705": {
+    "name_jp": "鳥は夢へと羽ばたいて",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/04/22/da3ee1e35d1fb8661b92bfa2dc020ce4_5592531544693888746.png",
+    "wiki_id": "705",
+    "rank": "S"
+  },
+  "706": {
+    "name_jp": "千面の落日",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/05/12/98909cbf623056db523606d4e69665ba_4635167969894840467.png",
+    "wiki_id": "706",
+    "rank": "S"
+  },
+  "782": {
+    "name_jp": "青溟の鳥籠",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/06/25/59155606/4a86cd5dbdbd10f0f297d0432de45073_613558701026888051.png",
+    "wiki_id": "782",
+    "rank": "S"
+  },
+  "783": {
+    "name_jp": "雷鳴が如き八卦",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/06/25/59155606/8bb2c4e9bcd55ea328de19c549ee442b_8002672650949425306.png",
+    "wiki_id": "783",
+    "rank": "A"
+  },
+  "784": {
+    "name_jp": "光と影のカット",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/06/25/59155606/2a62755529c7affe77bed867ae6dc71f_3578425343688040812.png",
+    "wiki_id": "784",
+    "rank": "A"
+  },
+  "785": {
+    "name_jp": "魔法の立体パズル",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/06/04/d310ab01798d3b2e4caa75f34af5da42_2651752688078568894.png",
+    "wiki_id": "785",
+    "rank": "A"
+  },
+  "786": {
+    "name_jp": "エレクトロウォーク",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/06/04/ef282cf8ec1d3aef6ce351b63de67384_2586398929468765144.png",
+    "wiki_id": "786",
+    "rank": "A"
+  },
+  "787": {
+    "name_jp": "「灰燼」-蒼藍",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/06/04/53a56ca282e4e2a024e1373cb2e1fe38_390976530198885023.png",
+    "wiki_id": "787",
+    "rank": "B"
+  },
+  "851": {
+    "name_jp": "招福の虎炉",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/06/25/59155606/08f1ad57e2f2e31e939ed54cf19645e7_80954305085037850.png",
+    "wiki_id": "851",
+    "rank": "S"
+  },
+  "877": {
+    "name_jp": "狸の七変化",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/07/15/59155606/2a47f6fd4b15e1897adb1bdc3bfbf136_6268006183391436165.png",
+    "wiki_id": "877",
+    "rank": "S"
+  },
+  "903": {
+    "name_jp": "十面百錬の星",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/08/04/782dda131bfeebcb259fd09a6c2c739c_7567985947461468602.png",
+    "wiki_id": "903",
+    "rank": "S"
+  },
+  "910": {
+    "name_jp": "駆動する種",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/09/01/e21587192a5b46941058a792f1afe1d5_7965701121486029526.png",
+    "wiki_id": "910",
+    "rank": "S"
+  },
+  "929": {
+    "name_jp": "憤怒の銃騒",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/09/22/59155606/f4ebc40570fd372ca981dd7836eb380c_4194997547185602780.png",
+    "wiki_id": "929",
+    "rank": "S"
+  },
+  "935": {
+    "name_jp": "炉で歌い上げられる夢",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/10/14/4ab6ae1bc6a56fb59fc3e666ec6f37a6_8611229957736642529.png",
+    "wiki_id": "935",
+    "rank": "S"
+  },
+  "936": {
+    "name_jp": "燔火の朧夜",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/10/14/07da3f94e491eeeb50491f1d8c0dfdda_7120678420596402422.png",
+    "wiki_id": "936",
+    "rank": "A"
+  },
+  "937": {
+    "name_jp": "セイレーンクレードル",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/11/04/a2a2914e66b4598c3df7a10a053569d9_4577897805180921179.png",
+    "wiki_id": "937",
+    "rank": "S"
+  },
+  "964": {
+    "name_jp": "昨夜からの着信",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/11/26/f213acba7e16bd918e6f5d4c0c678432_8047080685556807789.png",
+    "wiki_id": "964",
+    "rank": "S"
+  },
+  "965": {
+    "name_jp": "金剛不壊怒髪衝冠",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/12/15/874329a7e72be533f5c96858cabbf1a3_2005609521939481615.png",
+    "wiki_id": "965",
+    "rank": "S"
+  },
+  "982": {
+    "name_jp": "孤光彩雲",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/12/30/59155606/8cc78156ffeab01bfc9c46bfebb157fa_5929097259754456944.png",
+    "wiki_id": "982",
+    "rank": "S"
+  },
+  "983": {
+    "name_jp": "甘さ控えめ雪うさぎ",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/12/30/59155606/61787b38b58776826be6b00d8385f9be_1459314971479821507.png",
+    "wiki_id": "983",
+    "rank": "S"
+  },
+  "984": {
+    "name_jp": "蒼き波の霊器",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/12/31/59155606/63e3f6d2683157401b476fa488808e5d_3854734974944264878.png",
+    "wiki_id": "984",
+    "rank": "A"
+  },
+  "1015": {
+    "name_jp": "想いが織りなす歌",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/02/05/0af2bbd4bdf40cdc16376868f1ee15d8_5083234823122454066.png",
+    "wiki_id": "1015",
+    "rank": "S"
+  },
+  "1047": {
+    "name_jp": "殻の中の魂",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/03/03/23fca300946f6282a8abe30f462371d8_1539672253425020996.png",
+    "wiki_id": "1047",
+    "rank": "S"
+  },
+  "1067": {
+    "name_jp": "妄想ディスコテック",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/03/23/539cf1f6f04a758963355009c4fda5fb_404168684771958150.png",
+    "wiki_id": "1067",
+    "rank": "S"
+  },
+  "1068": {
+    "name_jp": "炎々沸々鍋一丁",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/03/25/d486af68e7c3655083310604704d889a_7830640007843564499.png",
+    "wiki_id": "1068",
+    "rank": "A"
+  },
+  "1078": {
+    "name_jp": "影を追う白き牙",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/04/13/f568435d8661907dda9d6dcc2f236b0e_7200420645611878871.png",
+    "wiki_id": "1078",
+    "rank": "S"
+  },
+  "1087": {
+    "name_jp": "フロスト・クレセント",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/05/06/8225136d9d3436f3b92211ac1a6635f7_4904353841212928551.png",
+    "wiki_id": "1087",
+    "rank": "S"
+  },
+  "1088": {
+    "name_jp": "スターライトバイザー",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/05/25/8fba6fca9b4ffacbb9838d5f03f54979_1085789925640683655.png",
+    "wiki_id": "1088",
+    "rank": "S"
+  },
+  "1104": {
+    "name_jp": "金襴の心",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/06/16/46300e97a90161a412f9e1fcd9dded33_5112513643100390394.png",
+    "wiki_id": "1104",
+    "rank": "S"
+  },
+  "1105": {
+    "name_jp": "太陽の抜け殻",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/06/16/cd295c7495bda6f3569e4123edb0b3ca_6601808833878136532.png",
+    "wiki_id": "1105",
+    "rank": "S"
+  },
+  "1106": {
+    "name_jp": "ドンカツエコー",
+    "icon_url": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2026/06/26/240767085/9129659d9eb94bb3fbe787fbb180d642_5061437054028433941.png",
+    "wiki_id": "1106",
+    "rank": "A"
+  },
+  "1134": {
+    "name_jp": "エースのオトモ",
+    "icon_url": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2026/07/07/541720efcb3a9c45272dbfeb5837961e_1442466901793895182.png",
+    "wiki_id": "1134",
+    "rank": "S"
+  }
+}
