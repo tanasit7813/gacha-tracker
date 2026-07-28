@@ -3,6 +3,8 @@
 > [!NOTE]
 > **Developer Note:**
 > This project represents my initial step into learning Next.js at a foundational level. It reflects my basic understanding of core concepts, project architecture, and web development workflows, created in collaboration with AI technology for personal growth and practical use.
+>
+> **Project Status:** `Archived`
 
 A modern, responsive web application for tracking and analyzing gacha pull history, pity counters, and statistics across multiple HoYoverse titles (**Genshin Impact**, **Honkai: Star Rail**, and **Zenless Zone Zero**).
 

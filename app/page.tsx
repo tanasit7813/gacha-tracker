@@ -800,7 +800,12 @@ export default function Home() {
     }
   };
 
-  const gameList = [
+  const gameList: Array<{
+    id: string;
+    name: string;
+    icon: React.ReactNode;
+    disabled?: boolean;
+  }> = [
     {
       id: "genshin",
       name: "Genshin Impact",
@@ -830,30 +835,6 @@ export default function Home() {
         <img
           src="/icons/Zenless_Zone_Zero_App_Icon.webp"
           alt="ZZZ"
-          className="w-6 h-6 rounded-md object-cover"
-        />
-      ),
-    },
-    {
-      id: "wuwa",
-      name: "Wuthering Waves",
-      disabled: true,
-      icon: (
-        <img
-          src="/icons/Wuthering_Waves.webp"
-          alt="WuWa"
-          className="w-6 h-6 rounded-md object-cover"
-        />
-      ),
-    },
-    {
-      id: "ark9",
-      name: "Arknights Endfield (TBA)",
-      disabled: true,
-      icon: (
-        <img
-          src="/icons/ark9.webp"
-          alt="Arknights Endfield"
           className="w-6 h-6 rounded-md object-cover"
         />
       ),
@@ -1317,16 +1298,13 @@ export default function Home() {
             >
               <button
                 onClick={() => {
-                  if (g.disabled) return;
                   handleSelectGame(g.id);
                 }}
-                disabled={isLoading || g.disabled}
+                disabled={isLoading}
                 className={`flex items-center w-full px-6 py-4 transition-colors duration-200 ${
-                  g.disabled
-                    ? "opacity-50 cursor-not-allowed text-gray-400"
-                    : activeGame === g.id
-                      ? "bg-blue-50 text-blue-700 font-semibold cursor-pointer"
-                      : "text-gray-700 hover:bg-gray-50 cursor-pointer"
+                  activeGame === g.id
+                    ? "bg-blue-50 text-blue-700 font-semibold cursor-pointer"
+                    : "text-gray-700 hover:bg-gray-50 cursor-pointer"
                 }`}
               >
                 <span className="mr-3 text-lg">{g.icon}</span>
@@ -1374,16 +1352,13 @@ export default function Home() {
               <div key={g.id} className="flex flex-col">
                 <button
                   onClick={() => {
-                    if (g.disabled) return;
                     handleSelectGame(g.id);
                   }}
-                  disabled={isLoading || g.disabled}
+                  disabled={isLoading}
                   className={`flex items-center w-full px-3 py-3 rounded-lg transition-all duration-200 ${
-                    g.disabled
-                      ? "opacity-50 cursor-not-allowed text-gray-400"
-                      : activeGame === g.id
-                        ? "bg-blue-50 text-blue-700 font-semibold shadow-sm cursor-pointer"
-                        : "text-gray-700 hover:bg-gray-100 cursor-pointer"
+                    activeGame === g.id
+                      ? "bg-blue-50 text-blue-700 font-semibold shadow-sm cursor-pointer"
+                      : "text-gray-700 hover:bg-gray-100 cursor-pointer"
                   }`}
                 >
                   <span className="mr-3 text-lg flex-shrink-0 flex items-center justify-center">
