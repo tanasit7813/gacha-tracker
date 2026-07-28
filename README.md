@@ -1,5 +1,9 @@
 # Gacha Tracker
 
+> [!NOTE]
+> **Developer Note:**
+> This project represents my initial step into learning Next.js at a foundational level. It reflects my basic understanding of core concepts, project architecture, and web development workflows, created in collaboration with AI technology for personal growth and practical use.
+
 A modern, responsive web application for tracking and analyzing gacha pull history, pity counters, and statistics across multiple HoYoverse titles (**Genshin Impact**, **Honkai: Star Rail**, and **Zenless Zone Zero**).
 
 Built with **Next.js 16 (App Router)**, **React 19**, **Tailwind CSS**, and **Supabase**.
@@ -35,51 +39,55 @@ This project uses **Supabase** as its backend database and authentication provid
 Create the following tables in your Supabase project:
 
 #### A. Genshin Impact Table (`gacha_history_gi`)
-| Column Name | Data Type | Constraints / Description |
-| :--- | :--- | :--- |
-| `id` | `uuid` | Primary Key, Default: `gen_random_uuid()` |
-| `user_id` | `uuid` | References `auth.users(id)` |
-| `game` | `text` | e.g. `"genshin"` |
-| `gacha_id` | `text` | Unique gacha record ID from game API |
-| `item_type` | `text` | `"ตัวละคร"` (Character) or `"อาวุธ"` (Weapon) |
-| `name` | `text` | Item name (e.g., `"Amber"`, `"Staff of Homa"`) |
-| `rank_type` | `text` | `"3"`, `"4"`, or `"5"` |
-| `time` | `timestamp` / `text` | Date and time of pull |
-| `gacha_type` | `text` | Banner type code (`"301"`, `"302"`, `"200"`, `"500"`) |
+
+| Column Name  | Data Type            | Constraints / Description                             |
+| :----------- | :------------------- | :---------------------------------------------------- |
+| `id`         | `uuid`               | Primary Key, Default: `gen_random_uuid()`             |
+| `user_id`    | `uuid`               | References `auth.users(id)`                           |
+| `game`       | `text`               | e.g. `"genshin"`                                      |
+| `gacha_id`   | `text`               | Unique gacha record ID from game API                  |
+| `item_type`  | `text`               | `"ตัวละคร"` (Character) or `"อาวุธ"` (Weapon)         |
+| `name`       | `text`               | Item name (e.g., `"Amber"`, `"Staff of Homa"`)        |
+| `rank_type`  | `text`               | `"3"`, `"4"`, or `"5"`                                |
+| `time`       | `timestamp` / `text` | Date and time of pull                                 |
+| `gacha_type` | `text`               | Banner type code (`"301"`, `"302"`, `"200"`, `"500"`) |
 
 #### B. Honkai: Star Rail Table (`gacha_history_hsr`)
-| Column Name | Data Type | Constraints / Description |
-| :--- | :--- | :--- |
-| `id` | `uuid` | Primary Key, Default: `gen_random_uuid()` |
-| `user_id` | `uuid` | References `auth.users(id)` |
-| `game` | `text` | e.g. `"hsr"` |
-| `gacha_id` | `text` | Unique gacha record ID from game API |
-| `item_type` | `text` | Item type |
-| `name` | `text` | Character or Light Cone name |
-| `rank_type` | `text` | `"3"`, `"4"`, or `"5"` |
-| `time` | `timestamp` / `text` | Date and time of pull |
-| `gacha_type` | `text` | Banner type code (`"11"`, `"12"`, `"1"`, `"21"`, `"22"`) |
+
+| Column Name  | Data Type            | Constraints / Description                                |
+| :----------- | :------------------- | :------------------------------------------------------- |
+| `id`         | `uuid`               | Primary Key, Default: `gen_random_uuid()`                |
+| `user_id`    | `uuid`               | References `auth.users(id)`                              |
+| `game`       | `text`               | e.g. `"hsr"`                                             |
+| `gacha_id`   | `text`               | Unique gacha record ID from game API                     |
+| `item_type`  | `text`               | Item type                                                |
+| `name`       | `text`               | Character or Light Cone name                             |
+| `rank_type`  | `text`               | `"3"`, `"4"`, or `"5"`                                   |
+| `time`       | `timestamp` / `text` | Date and time of pull                                    |
+| `gacha_type` | `text`               | Banner type code (`"11"`, `"12"`, `"1"`, `"21"`, `"22"`) |
 
 #### C. Zenless Zone Zero Table (`gacha_history_zzz`)
-| Column Name | Data Type | Constraints / Description |
-| :--- | :--- | :--- |
-| `id` | `uuid` | Primary Key, Default: `gen_random_uuid()` |
-| `user_id` | `uuid` | References `auth.users(id)` |
-| `game` | `text` | e.g. `"zzz"` |
-| `gacha_id` | `text` | Unique gacha record ID from game API |
-| `item_id` | `text` / `bigint` | ZZZ Item ID (used for asset lookup) |
-| `item_type` | `text` | Item type |
-| `name` | `text` | Agent, W-Engine, or Bangboo name |
-| `rank_type` | `text` | `"2"`, `"3"`, or `"4"` (ZZZ S-Rank is `"4"`) |
-| `time` | `timestamp` / `text` | Date and time of pull |
-| `gacha_type` | `text` | Banner type code (`"1"`, `"2"`, `"3"`, `"5"`) |
+
+| Column Name  | Data Type            | Constraints / Description                     |
+| :----------- | :------------------- | :-------------------------------------------- |
+| `id`         | `uuid`               | Primary Key, Default: `gen_random_uuid()`     |
+| `user_id`    | `uuid`               | References `auth.users(id)`                   |
+| `game`       | `text`               | e.g. `"zzz"`                                  |
+| `gacha_id`   | `text`               | Unique gacha record ID from game API          |
+| `item_id`    | `text` / `bigint`    | ZZZ Item ID (used for asset lookup)           |
+| `item_type`  | `text`               | Item type                                     |
+| `name`       | `text`               | Agent, W-Engine, or Bangboo name              |
+| `rank_type`  | `text`               | `"2"`, `"3"`, or `"4"` (ZZZ S-Rank is `"4"`)  |
+| `time`       | `timestamp` / `text` | Date and time of pull                         |
+| `gacha_type` | `text`               | Banner type code (`"1"`, `"2"`, `"3"`, `"5"`) |
 
 #### D. User Profiles Table (`profiles`)
-| Column Name | Data Type | Constraints / Description |
-| :--- | :--- | :--- |
-| `id` | `uuid` | Primary Key, References `auth.users(id)` |
-| `username` | `text` | Unique username for display |
-| `email` | `text` | User email address |
+
+| Column Name | Data Type | Constraints / Description                |
+| :---------- | :-------- | :--------------------------------------- |
+| `id`        | `uuid`    | Primary Key, References `auth.users(id)` |
+| `username`  | `text`    | Unique username for display              |
+| `email`     | `text`    | User email address                       |
 
 ---
 
@@ -92,6 +100,7 @@ If you prefer to customize table names (e.g., changing `gacha_history_gi` to `my
 
 1. **Fetching History (`fetchAllHistory`)**:
    Located around lines **486–502** in `app/page.tsx`:
+
    ```typescript
    const [giRes, hsrRes, zzzRes] = await Promise.all([
      supabase.from("YOUR_GENSHIN_TABLE").select("*").eq("user_id", user.id)...,
@@ -117,7 +126,7 @@ If you prefer to customize table names (e.g., changing `gacha_history_gi` to `my
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) v18+ 
+- [Node.js](https://nodejs.org/) v18+
 - [npm](https://www.npmjs.com/) or `pnpm`
 - A [Supabase](https://supabase.com/) project
 
@@ -171,6 +180,10 @@ gacha-tracker/
 
 ---
 
-## 📄 License
+## ⚖️ Disclaimer & License
 
-This project is open-source and intended for personal use and portfolio demonstration. All game assets, character names, and icons are trademarks and copyrights of **Cognosphere / HoYoverse**.
+> [!IMPORTANT]
+> **Disclaimer:**  
+> This repository is created solely for personal portfolio demonstration and skill showcase purposes. It is strictly non-commercial and not intended for commercial monetization or public service distribution.
+
+This project is open-source and intended for personal use and portfolio demonstration. All game assets, character names, logos, and icons are trademarks and copyrights of **Cognosphere / HoYoverse**.
